@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SquareOf7By7Stars/1.0.0": {
+        "runtime": {
+          "SquareOf7By7Stars.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SquareOf7By7Stars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

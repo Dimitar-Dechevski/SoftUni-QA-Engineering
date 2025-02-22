@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\PrimeNumbers\bin\Debug\net6.0\PrimeNumbers.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\PrimeNumbers\bin\Debug\net6.0\PrimeNumbers.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\PrimeNumbers\bin\Debug\net6.0\PrimeNumbers.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\PrimeNumbers\bin\Debug\net6.0\PrimeNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\PrimeNumbers\bin\Debug\net6.0\PrimeNumbers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\PrimeNumbers\obj\Debug\net6.0\refint\PrimeNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\PrimeNumbers\obj\Debug\net6.0\ref\PrimeNumbers.dll

@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\FruitOrVegetable\bin\Debug\net6.0\FruitOrVegetable.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\FruitOrVegetable\bin\Debug\net6.0\FruitOrVegetable.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\FruitOrVegetable\bin\Debug\net6.0\FruitOrVegetable.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\FruitOrVegetable\bin\Debug\net6.0\FruitOrVegetable.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\FruitOrVegetable\bin\Debug\net6.0\FruitOrVegetable.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\FruitOrVegetable\obj\Debug\net6.0\FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\FruitOrVegetable\obj\Debug\net6.0\FruitOrVegetable.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\FruitOrVegetable\obj\Debug\net6.0\FruitOrVegetable.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\FruitOrVegetable\obj\Debug\net6.0\FruitOrVegetable.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\FruitOrVegetable\obj\Debug\net6.0\FruitOrVegetable.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\FruitOrVegetable\obj\Debug\net6.0\refint\FruitOrVegetable.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\FruitOrVegetable\obj\Debug\net6.0\FruitOrVegetable.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\FruitOrVegetable\obj\Debug\net6.0\FruitOrVegetable.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\FruitOrVegetable\obj\Debug\net6.0\ref\FruitOrVegetable.dll

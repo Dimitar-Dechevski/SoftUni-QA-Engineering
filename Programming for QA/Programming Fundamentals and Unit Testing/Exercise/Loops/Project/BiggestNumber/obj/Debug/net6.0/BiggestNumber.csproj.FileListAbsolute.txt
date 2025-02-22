@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\BiggestNumber\bin\Debug\net6.0\BiggestNumber.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\BiggestNumber\bin\Debug\net6.0\BiggestNumber.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\BiggestNumber\bin\Debug\net6.0\BiggestNumber.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\BiggestNumber\bin\Debug\net6.0\BiggestNumber.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\BiggestNumber\bin\Debug\net6.0\BiggestNumber.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\BiggestNumber\obj\Debug\net6.0\BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\BiggestNumber\obj\Debug\net6.0\BiggestNumber.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\BiggestNumber\obj\Debug\net6.0\BiggestNumber.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\BiggestNumber\obj\Debug\net6.0\BiggestNumber.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\BiggestNumber\obj\Debug\net6.0\BiggestNumber.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\BiggestNumber\obj\Debug\net6.0\refint\BiggestNumber.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\BiggestNumber\obj\Debug\net6.0\BiggestNumber.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\BiggestNumber\obj\Debug\net6.0\BiggestNumber.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\BiggestNumber\obj\Debug\net6.0\ref\BiggestNumber.dll

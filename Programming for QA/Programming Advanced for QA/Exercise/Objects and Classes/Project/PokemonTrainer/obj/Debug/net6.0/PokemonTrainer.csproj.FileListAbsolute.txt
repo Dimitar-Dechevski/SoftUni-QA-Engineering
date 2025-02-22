@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\PokemonTrainer\obj\Debug\net6.0\refint\PokemonTrainer.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\PokemonTrainer\obj\Debug\net6.0\ref\PokemonTrainer.dll

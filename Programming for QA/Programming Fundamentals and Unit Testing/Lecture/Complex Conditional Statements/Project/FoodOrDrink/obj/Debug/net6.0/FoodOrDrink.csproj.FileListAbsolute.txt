@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Complex Conditional Statements\Project\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Complex Conditional Statements\Project\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Complex Conditional Statements\Project\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Complex Conditional Statements\Project\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Complex Conditional Statements\Project\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Complex Conditional Statements\Project\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Complex Conditional Statements\Project\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Complex Conditional Statements\Project\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Complex Conditional Statements\Project\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Complex Conditional Statements\Project\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Complex Conditional Statements\Project\FoodOrDrink\obj\Debug\net6.0\refint\FoodOrDrink.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Complex Conditional Statements\Project\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Complex Conditional Statements\Project\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Complex Conditional Statements\Project\FoodOrDrink\obj\Debug\net6.0\ref\FoodOrDrink.dll

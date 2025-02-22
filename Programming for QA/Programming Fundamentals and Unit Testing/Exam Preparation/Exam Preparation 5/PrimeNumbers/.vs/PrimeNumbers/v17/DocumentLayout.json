@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam Preparation\\Exam Preparation 5 - 16 April 2024\\03.PrimeNumbers_Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{859BF4EF-5280-49FC-8DE7-1985A66F600E}|TestApp.Tests\\TestApp.Tests.csproj|d:\\qa\\programming for qa\\programming fundamentals and unit testing\\exam preparation\\exam preparation 5 - 16 april 2024\\03.primenumbers_resources\\testapp.tests\\primenumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859BF4EF-5280-49FC-8DE7-1985A66F600E}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\primenumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A66554-7BF1-4A3A-9EE4-FCAF260D478D}|TestApp\\TestApp.csproj|d:\\qa\\programming for qa\\programming fundamentals and unit testing\\exam preparation\\exam preparation 5 - 16 april 2024\\03.primenumbers_resources\\testapp\\primenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A66554-7BF1-4A3A-9EE4-FCAF260D478D}|TestApp\\TestApp.csproj|solutionrelative:testapp\\primenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrimeNumbers.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam Preparation\\Exam Preparation 5 - 16 April 2024\\03.PrimeNumbers_Resources\\TestApp\\PrimeNumbers.cs",
+              "RelativeDocumentMoniker": "TestApp\\PrimeNumbers.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam Preparation\\Exam Preparation 5 - 16 April 2024\\03.PrimeNumbers_Resources\\TestApp\\PrimeNumbers.cs",
+              "RelativeToolTip": "TestApp\\PrimeNumbers.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T11:34:35.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeNumbersTests.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam Preparation\\Exam Preparation 5 - 16 April 2024\\03.PrimeNumbers_Resources\\TestApp.Tests\\PrimeNumbersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\PrimeNumbersTests.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam Preparation\\Exam Preparation 5 - 16 April 2024\\03.PrimeNumbers_Resources\\TestApp.Tests\\PrimeNumbersTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\PrimeNumbersTests.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwEgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T11:34:04.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

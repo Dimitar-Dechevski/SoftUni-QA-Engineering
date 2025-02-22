@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\HappyNumbers\bin\Debug\net6.0\HappyNumbers.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\HappyNumbers\bin\Debug\net6.0\HappyNumbers.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\HappyNumbers\bin\Debug\net6.0\HappyNumbers.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\HappyNumbers\bin\Debug\net6.0\HappyNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\HappyNumbers\bin\Debug\net6.0\HappyNumbers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\HappyNumbers\obj\Debug\net6.0\HappyNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\HappyNumbers\obj\Debug\net6.0\HappyNumbers.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\HappyNumbers\obj\Debug\net6.0\HappyNumbers.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\HappyNumbers\obj\Debug\net6.0\HappyNumbers.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\HappyNumbers\obj\Debug\net6.0\HappyNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\HappyNumbers\obj\Debug\net6.0\refint\HappyNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\HappyNumbers\obj\Debug\net6.0\HappyNumbers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\HappyNumbers\obj\Debug\net6.0\HappyNumbers.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\HappyNumbers\obj\Debug\net6.0\ref\HappyNumbers.dll

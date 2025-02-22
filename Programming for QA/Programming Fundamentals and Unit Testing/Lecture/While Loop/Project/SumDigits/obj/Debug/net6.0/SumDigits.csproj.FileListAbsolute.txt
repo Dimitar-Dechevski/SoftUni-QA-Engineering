@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\SumDigits\bin\Debug\net6.0\SumDigits.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\SumDigits\bin\Debug\net6.0\SumDigits.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\SumDigits\bin\Debug\net6.0\SumDigits.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\SumDigits\bin\Debug\net6.0\SumDigits.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\SumDigits\bin\Debug\net6.0\SumDigits.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\SumDigits\obj\Debug\net6.0\SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\SumDigits\obj\Debug\net6.0\SumDigits.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\SumDigits\obj\Debug\net6.0\SumDigits.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\SumDigits\obj\Debug\net6.0\SumDigits.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\SumDigits\obj\Debug\net6.0\SumDigits.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\SumDigits\obj\Debug\net6.0\refint\SumDigits.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\SumDigits\obj\Debug\net6.0\SumDigits.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\SumDigits\obj\Debug\net6.0\SumDigits.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\SumDigits\obj\Debug\net6.0\ref\SumDigits.dll

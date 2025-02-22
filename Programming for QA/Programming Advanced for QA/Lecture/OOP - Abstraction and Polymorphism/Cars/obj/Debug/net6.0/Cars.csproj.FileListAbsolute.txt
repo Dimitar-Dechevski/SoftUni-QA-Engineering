@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\bin\Debug\net6.0\Cars.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\bin\Debug\net6.0\Cars.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\bin\Debug\net6.0\Cars.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\bin\Debug\net6.0\Cars.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\Cars.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\refint\Cars.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\Cars.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Cars\obj\Debug\net6.0\ref\Cars.dll

@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\Songs\bin\Debug\net6.0\Songs.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\Songs\bin\Debug\net6.0\Songs.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\Songs\bin\Debug\net6.0\Songs.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\Songs\bin\Debug\net6.0\Songs.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\Songs\bin\Debug\net6.0\Songs.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\Songs\obj\Debug\net6.0\Songs.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\Songs\obj\Debug\net6.0\Songs.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\Songs\obj\Debug\net6.0\Songs.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\Songs\obj\Debug\net6.0\Songs.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\Songs\obj\Debug\net6.0\Songs.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\Songs\obj\Debug\net6.0\refint\Songs.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\Songs\obj\Debug\net6.0\Songs.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\Songs\obj\Debug\net6.0\Songs.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\Songs\obj\Debug\net6.0\ref\Songs.dll

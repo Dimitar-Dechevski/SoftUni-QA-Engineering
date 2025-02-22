@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersEndingIn7\bin\Debug\net6.0\NumbersEndingIn7.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersEndingIn7\bin\Debug\net6.0\NumbersEndingIn7.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersEndingIn7\bin\Debug\net6.0\NumbersEndingIn7.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersEndingIn7\bin\Debug\net6.0\NumbersEndingIn7.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersEndingIn7\bin\Debug\net6.0\NumbersEndingIn7.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersEndingIn7\obj\Debug\net6.0\NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersEndingIn7\obj\Debug\net6.0\NumbersEndingIn7.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersEndingIn7\obj\Debug\net6.0\NumbersEndingIn7.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersEndingIn7\obj\Debug\net6.0\NumbersEndingIn7.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersEndingIn7\obj\Debug\net6.0\NumbersEndingIn7.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersEndingIn7\obj\Debug\net6.0\refint\NumbersEndingIn7.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersEndingIn7\obj\Debug\net6.0\NumbersEndingIn7.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersEndingIn7\obj\Debug\net6.0\NumbersEndingIn7.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersEndingIn7\obj\Debug\net6.0\ref\NumbersEndingIn7.dll

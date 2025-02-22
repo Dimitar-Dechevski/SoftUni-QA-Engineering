@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\NumberPyramid\bin\Debug\net6.0\NumberPyramid.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\NumberPyramid\bin\Debug\net6.0\NumberPyramid.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\NumberPyramid\bin\Debug\net6.0\NumberPyramid.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\NumberPyramid\bin\Debug\net6.0\NumberPyramid.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\NumberPyramid\bin\Debug\net6.0\NumberPyramid.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\NumberPyramid\obj\Debug\net6.0\NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\NumberPyramid\obj\Debug\net6.0\NumberPyramid.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\NumberPyramid\obj\Debug\net6.0\NumberPyramid.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\NumberPyramid\obj\Debug\net6.0\NumberPyramid.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\NumberPyramid\obj\Debug\net6.0\NumberPyramid.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\NumberPyramid\obj\Debug\net6.0\refint\NumberPyramid.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\NumberPyramid\obj\Debug\net6.0\NumberPyramid.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\NumberPyramid\obj\Debug\net6.0\NumberPyramid.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\NumberPyramid\obj\Debug\net6.0\ref\NumberPyramid.dll

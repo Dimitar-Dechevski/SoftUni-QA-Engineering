@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\TicketPrice\bin\Debug\net6.0\TicketPrice.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\TicketPrice\bin\Debug\net6.0\TicketPrice.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\TicketPrice\bin\Debug\net6.0\TicketPrice.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\TicketPrice\bin\Debug\net6.0\TicketPrice.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\TicketPrice\bin\Debug\net6.0\TicketPrice.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\TicketPrice\obj\Debug\net6.0\TicketPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\TicketPrice\obj\Debug\net6.0\TicketPrice.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\TicketPrice\obj\Debug\net6.0\TicketPrice.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\TicketPrice\obj\Debug\net6.0\TicketPrice.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\TicketPrice\obj\Debug\net6.0\TicketPrice.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\TicketPrice\obj\Debug\net6.0\refint\TicketPrice.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\TicketPrice\obj\Debug\net6.0\TicketPrice.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\TicketPrice\obj\Debug\net6.0\TicketPrice.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\TicketPrice\obj\Debug\net6.0\ref\TicketPrice.dll

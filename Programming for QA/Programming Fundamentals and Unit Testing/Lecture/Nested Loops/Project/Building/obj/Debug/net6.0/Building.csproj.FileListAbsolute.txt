@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\Building\bin\Debug\net6.0\Building.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\Building\bin\Debug\net6.0\Building.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\Building\bin\Debug\net6.0\Building.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\Building\bin\Debug\net6.0\Building.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\Building\bin\Debug\net6.0\Building.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\Building\obj\Debug\net6.0\Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\Building\obj\Debug\net6.0\Building.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\Building\obj\Debug\net6.0\Building.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\Building\obj\Debug\net6.0\Building.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\Building\obj\Debug\net6.0\Building.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\Building\obj\Debug\net6.0\refint\Building.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\Building\obj\Debug\net6.0\Building.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\Building\obj\Debug\net6.0\Building.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\Building\obj\Debug\net6.0\ref\Building.dll

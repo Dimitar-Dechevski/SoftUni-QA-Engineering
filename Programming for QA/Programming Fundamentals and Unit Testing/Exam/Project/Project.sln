@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutritionAndCaloricIntakeAnalysis", "NutritionAndCaloricIntakeAnalysis\NutritionAndCaloricIntakeAnalysis.csproj", "{B4D97DA2-6EF6-42E3-A4FC-D2E39B969C5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageStockPriceInRange", "AverageStockPriceInRange\AverageStockPriceInRange.csproj", "{B0584F31-79D0-4ADD-A72E-52F4C4DCE326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D97DA2-6EF6-42E3-A4FC-D2E39B969C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D97DA2-6EF6-42E3-A4FC-D2E39B969C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D97DA2-6EF6-42E3-A4FC-D2E39B969C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D97DA2-6EF6-42E3-A4FC-D2E39B969C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0584F31-79D0-4ADD-A72E-52F4C4DCE326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0584F31-79D0-4ADD-A72E-52F4C4DCE326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0584F31-79D0-4ADD-A72E-52F4C4DCE326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0584F31-79D0-4ADD-A72E-52F4C4DCE326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D38142C6-60B6-4F8F-8792-D22ABED5176B}
+	EndGlobalSection
+EndGlobal

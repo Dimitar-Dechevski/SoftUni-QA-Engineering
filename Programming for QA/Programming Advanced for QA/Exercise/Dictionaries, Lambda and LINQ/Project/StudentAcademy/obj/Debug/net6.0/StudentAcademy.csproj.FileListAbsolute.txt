@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\StudentAcademy\bin\Debug\net6.0\StudentAcademy.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\StudentAcademy\bin\Debug\net6.0\StudentAcademy.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\StudentAcademy\bin\Debug\net6.0\StudentAcademy.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\StudentAcademy\bin\Debug\net6.0\StudentAcademy.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\StudentAcademy\bin\Debug\net6.0\StudentAcademy.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\StudentAcademy\obj\Debug\net6.0\StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\StudentAcademy\obj\Debug\net6.0\StudentAcademy.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\StudentAcademy\obj\Debug\net6.0\StudentAcademy.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\StudentAcademy\obj\Debug\net6.0\StudentAcademy.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\StudentAcademy\obj\Debug\net6.0\StudentAcademy.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\StudentAcademy\obj\Debug\net6.0\refint\StudentAcademy.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\StudentAcademy\obj\Debug\net6.0\StudentAcademy.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\StudentAcademy\obj\Debug\net6.0\StudentAcademy.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\StudentAcademy\obj\Debug\net6.0\ref\StudentAcademy.dll

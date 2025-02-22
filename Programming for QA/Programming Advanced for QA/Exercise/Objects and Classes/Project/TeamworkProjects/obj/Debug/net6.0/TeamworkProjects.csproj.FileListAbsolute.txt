@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\TeamworkProjects\obj\Debug\net6.0\refint\TeamworkProjects.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\TeamworkProjects\obj\Debug\net6.0\ref\TeamworkProjects.dll

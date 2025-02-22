@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\NameAndExpression\bin\Debug\net6.0\NameAndExpression.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\NameAndExpression\bin\Debug\net6.0\NameAndExpression.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\NameAndExpression\bin\Debug\net6.0\NameAndExpression.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\NameAndExpression\bin\Debug\net6.0\NameAndExpression.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\NameAndExpression\bin\Debug\net6.0\NameAndExpression.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\NameAndExpression\obj\Debug\net6.0\NameAndExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\NameAndExpression\obj\Debug\net6.0\NameAndExpression.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\NameAndExpression\obj\Debug\net6.0\NameAndExpression.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\NameAndExpression\obj\Debug\net6.0\NameAndExpression.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\NameAndExpression\obj\Debug\net6.0\NameAndExpression.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\NameAndExpression\obj\Debug\net6.0\refint\NameAndExpression.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\NameAndExpression\obj\Debug\net6.0\NameAndExpression.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\NameAndExpression\obj\Debug\net6.0\NameAndExpression.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\NameAndExpression\obj\Debug\net6.0\ref\NameAndExpression.dll

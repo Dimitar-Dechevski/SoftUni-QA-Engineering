@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Exam\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9445E904-78C4-46B0-95C2-286745991E2A}|ApiTests\\ApiTests.csproj|d:\\qa\\back-end test automation\\back-end test automation\\exam\\project\\apitests\\bookcategorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9445E904-78C4-46B0-95C2-286745991E2A}|ApiTests\\ApiTests.csproj|solutionrelative:apitests\\bookcategorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9445E904-78C4-46B0-95C2-286745991E2A}|ApiTests\\ApiTests.csproj|d:\\qa\\back-end test automation\\back-end test automation\\exam\\project\\apitests\\booktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9445E904-78C4-46B0-95C2-286745991E2A}|ApiTests\\ApiTests.csproj|solutionrelative:apitests\\booktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookCategoryTests.cs",
+              "DocumentMoniker": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Exam\\Project\\ApiTests\\BookCategoryTests.cs",
+              "RelativeDocumentMoniker": "ApiTests\\BookCategoryTests.cs",
+              "ToolTip": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Exam\\Project\\ApiTests\\BookCategoryTests.cs",
+              "RelativeToolTip": "ApiTests\\BookCategoryTests.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAowEkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T22:53:30.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookTests.cs",
+              "DocumentMoniker": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Exam\\Project\\ApiTests\\BookTests.cs",
+              "RelativeDocumentMoniker": "ApiTests\\BookTests.cs",
+              "ToolTip": "D:\\QA\\Back-End Test Automation\\Back-End Test Automation\\Exam\\Project\\ApiTests\\BookTests.cs",
+              "RelativeToolTip": "ApiTests\\BookTests.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowFAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:12:16.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

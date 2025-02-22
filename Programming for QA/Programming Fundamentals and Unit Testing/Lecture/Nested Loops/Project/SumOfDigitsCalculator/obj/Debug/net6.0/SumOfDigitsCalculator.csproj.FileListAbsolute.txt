@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\SumOfDigitsCalculator\bin\Debug\net6.0\SumOfDigitsCalculator.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\SumOfDigitsCalculator\bin\Debug\net6.0\SumOfDigitsCalculator.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\SumOfDigitsCalculator\bin\Debug\net6.0\SumOfDigitsCalculator.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\SumOfDigitsCalculator\bin\Debug\net6.0\SumOfDigitsCalculator.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\SumOfDigitsCalculator\bin\Debug\net6.0\SumOfDigitsCalculator.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\SumOfDigitsCalculator\obj\Debug\net6.0\SumOfDigitsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\SumOfDigitsCalculator\obj\Debug\net6.0\SumOfDigitsCalculator.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\SumOfDigitsCalculator\obj\Debug\net6.0\SumOfDigitsCalculator.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\SumOfDigitsCalculator\obj\Debug\net6.0\SumOfDigitsCalculator.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\SumOfDigitsCalculator\obj\Debug\net6.0\SumOfDigitsCalculator.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\SumOfDigitsCalculator\obj\Debug\net6.0\refint\SumOfDigitsCalculator.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\SumOfDigitsCalculator\obj\Debug\net6.0\SumOfDigitsCalculator.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\SumOfDigitsCalculator\obj\Debug\net6.0\SumOfDigitsCalculator.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\SumOfDigitsCalculator\obj\Debug\net6.0\ref\SumOfDigitsCalculator.dll

@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\MaxMinInRange\bin\Debug\net6.0\MaxMinInRange.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\MaxMinInRange\bin\Debug\net6.0\MaxMinInRange.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\MaxMinInRange\bin\Debug\net6.0\MaxMinInRange.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\MaxMinInRange\bin\Debug\net6.0\MaxMinInRange.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\MaxMinInRange\bin\Debug\net6.0\MaxMinInRange.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\MaxMinInRange\obj\Debug\net6.0\MaxMinInRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\MaxMinInRange\obj\Debug\net6.0\MaxMinInRange.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\MaxMinInRange\obj\Debug\net6.0\MaxMinInRange.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\MaxMinInRange\obj\Debug\net6.0\MaxMinInRange.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\MaxMinInRange\obj\Debug\net6.0\MaxMinInRange.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\MaxMinInRange\obj\Debug\net6.0\refint\MaxMinInRange.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\MaxMinInRange\obj\Debug\net6.0\MaxMinInRange.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\MaxMinInRange\obj\Debug\net6.0\MaxMinInRange.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\MaxMinInRange\obj\Debug\net6.0\ref\MaxMinInRange.dll

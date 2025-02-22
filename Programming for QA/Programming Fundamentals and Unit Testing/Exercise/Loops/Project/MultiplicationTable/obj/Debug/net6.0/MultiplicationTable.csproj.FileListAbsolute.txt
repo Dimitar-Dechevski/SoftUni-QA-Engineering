@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\MultiplicationTable\obj\Debug\net6.0\refint\MultiplicationTable.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\MultiplicationTable\obj\Debug\net6.0\ref\MultiplicationTable.dll

@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\EnterNumbers\bin\Debug\net6.0\EnterNumbers.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\EnterNumbers\bin\Debug\net6.0\EnterNumbers.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\EnterNumbers\bin\Debug\net6.0\EnterNumbers.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\EnterNumbers\bin\Debug\net6.0\EnterNumbers.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\EnterNumbers\bin\Debug\net6.0\EnterNumbers.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\EnterNumbers\obj\Debug\net6.0\EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\EnterNumbers\obj\Debug\net6.0\EnterNumbers.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\EnterNumbers\obj\Debug\net6.0\EnterNumbers.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\EnterNumbers\obj\Debug\net6.0\EnterNumbers.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\EnterNumbers\obj\Debug\net6.0\EnterNumbers.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\EnterNumbers\obj\Debug\net6.0\refint\EnterNumbers.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\EnterNumbers\obj\Debug\net6.0\EnterNumbers.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\EnterNumbers\obj\Debug\net6.0\EnterNumbers.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\EnterNumbers\obj\Debug\net6.0\ref\EnterNumbers.dll

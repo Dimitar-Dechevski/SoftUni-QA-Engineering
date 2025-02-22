@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\Tiles\bin\Debug\net6.0\Tiles.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\Tiles\bin\Debug\net6.0\Tiles.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\Tiles\bin\Debug\net6.0\Tiles.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\Tiles\bin\Debug\net6.0\Tiles.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\Tiles\bin\Debug\net6.0\Tiles.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\Tiles\obj\Debug\net6.0\Tiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\Tiles\obj\Debug\net6.0\Tiles.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\Tiles\obj\Debug\net6.0\Tiles.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\Tiles\obj\Debug\net6.0\Tiles.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\Tiles\obj\Debug\net6.0\Tiles.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\Tiles\obj\Debug\net6.0\refint\Tiles.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\Tiles\obj\Debug\net6.0\Tiles.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\Tiles\obj\Debug\net6.0\Tiles.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\Tiles\obj\Debug\net6.0\ref\Tiles.dll

@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationBasics\bin\Debug\net6.0\ListManipulationBasics.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationBasics\bin\Debug\net6.0\ListManipulationBasics.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationBasics\bin\Debug\net6.0\ListManipulationBasics.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationBasics\bin\Debug\net6.0\ListManipulationBasics.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationBasics\bin\Debug\net6.0\ListManipulationBasics.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationBasics\obj\Debug\net6.0\refint\ListManipulationBasics.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationBasics\obj\Debug\net6.0\ref\ListManipulationBasics.dll

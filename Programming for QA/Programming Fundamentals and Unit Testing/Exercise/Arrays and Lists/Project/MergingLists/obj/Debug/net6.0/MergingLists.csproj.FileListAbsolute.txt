@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\MergingLists\bin\Debug\net6.0\MergingLists.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\MergingLists\bin\Debug\net6.0\MergingLists.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\MergingLists\bin\Debug\net6.0\MergingLists.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\MergingLists\bin\Debug\net6.0\MergingLists.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\MergingLists\bin\Debug\net6.0\MergingLists.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\MergingLists\obj\Debug\net6.0\MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\MergingLists\obj\Debug\net6.0\MergingLists.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\MergingLists\obj\Debug\net6.0\MergingLists.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\MergingLists\obj\Debug\net6.0\MergingLists.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\MergingLists\obj\Debug\net6.0\MergingLists.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\MergingLists\obj\Debug\net6.0\refint\MergingLists.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\MergingLists\obj\Debug\net6.0\MergingLists.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\MergingLists\obj\Debug\net6.0\MergingLists.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\MergingLists\obj\Debug\net6.0\ref\MergingLists.dll

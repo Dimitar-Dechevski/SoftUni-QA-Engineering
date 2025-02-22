@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\WordSynonyms\bin\Debug\net6.0\WordSynonyms.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\WordSynonyms\bin\Debug\net6.0\WordSynonyms.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\WordSynonyms\bin\Debug\net6.0\WordSynonyms.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\WordSynonyms\bin\Debug\net6.0\WordSynonyms.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\WordSynonyms\bin\Debug\net6.0\WordSynonyms.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\WordSynonyms\obj\Debug\net6.0\WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\WordSynonyms\obj\Debug\net6.0\WordSynonyms.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\WordSynonyms\obj\Debug\net6.0\WordSynonyms.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\WordSynonyms\obj\Debug\net6.0\WordSynonyms.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\WordSynonyms\obj\Debug\net6.0\WordSynonyms.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\WordSynonyms\obj\Debug\net6.0\refint\WordSynonyms.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\WordSynonyms\obj\Debug\net6.0\WordSynonyms.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\WordSynonyms\obj\Debug\net6.0\WordSynonyms.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\WordSynonyms\obj\Debug\net6.0\ref\WordSynonyms.dll

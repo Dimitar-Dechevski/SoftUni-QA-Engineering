@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\ProductOfThreeNumbers\bin\Debug\net6.0\ProductOfThreeNumbers.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\ProductOfThreeNumbers\bin\Debug\net6.0\ProductOfThreeNumbers.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\ProductOfThreeNumbers\bin\Debug\net6.0\ProductOfThreeNumbers.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\ProductOfThreeNumbers\bin\Debug\net6.0\ProductOfThreeNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\ProductOfThreeNumbers\bin\Debug\net6.0\ProductOfThreeNumbers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\ProductOfThreeNumbers\obj\Debug\net6.0\ProductOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\ProductOfThreeNumbers\obj\Debug\net6.0\ProductOfThreeNumbers.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\ProductOfThreeNumbers\obj\Debug\net6.0\ProductOfThreeNumbers.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\ProductOfThreeNumbers\obj\Debug\net6.0\ProductOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\ProductOfThreeNumbers\obj\Debug\net6.0\ProductOfThreeNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\ProductOfThreeNumbers\obj\Debug\net6.0\refint\ProductOfThreeNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\ProductOfThreeNumbers\obj\Debug\net6.0\ProductOfThreeNumbers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\ProductOfThreeNumbers\obj\Debug\net6.0\ProductOfThreeNumbers.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\ProductOfThreeNumbers\obj\Debug\net6.0\ref\ProductOfThreeNumbers.dll

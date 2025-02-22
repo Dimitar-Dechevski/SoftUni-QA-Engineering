@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\USDToEUR\bin\Debug\net6.0\USDToEUR.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\USDToEUR\bin\Debug\net6.0\USDToEUR.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\USDToEUR\bin\Debug\net6.0\USDToEUR.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\USDToEUR\bin\Debug\net6.0\USDToEUR.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\USDToEUR\bin\Debug\net6.0\USDToEUR.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\USDToEUR\obj\Debug\net6.0\USDToEUR.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\USDToEUR\obj\Debug\net6.0\USDToEUR.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\USDToEUR\obj\Debug\net6.0\USDToEUR.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\USDToEUR\obj\Debug\net6.0\USDToEUR.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\USDToEUR\obj\Debug\net6.0\USDToEUR.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\USDToEUR\obj\Debug\net6.0\refint\USDToEUR.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\USDToEUR\obj\Debug\net6.0\USDToEUR.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\USDToEUR\obj\Debug\net6.0\USDToEUR.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Simple Calculations\Project\USDToEUR\obj\Debug\net6.0\ref\USDToEUR.dll

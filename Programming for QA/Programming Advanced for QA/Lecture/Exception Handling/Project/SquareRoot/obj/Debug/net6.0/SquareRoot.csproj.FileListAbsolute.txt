@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SquareRoot\bin\Debug\net6.0\SquareRoot.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SquareRoot\bin\Debug\net6.0\SquareRoot.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SquareRoot\bin\Debug\net6.0\SquareRoot.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SquareRoot\bin\Debug\net6.0\SquareRoot.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SquareRoot\bin\Debug\net6.0\SquareRoot.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SquareRoot\obj\Debug\net6.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SquareRoot\obj\Debug\net6.0\SquareRoot.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SquareRoot\obj\Debug\net6.0\refint\SquareRoot.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SquareRoot\obj\Debug\net6.0\SquareRoot.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SquareRoot\obj\Debug\net6.0\SquareRoot.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SquareRoot\obj\Debug\net6.0\ref\SquareRoot.dll

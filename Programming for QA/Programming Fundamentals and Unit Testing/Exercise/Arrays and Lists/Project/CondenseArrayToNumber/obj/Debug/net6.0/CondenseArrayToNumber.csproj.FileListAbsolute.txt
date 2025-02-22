@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CondenseArrayToNumber\bin\Debug\net6.0\CondenseArrayToNumber.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CondenseArrayToNumber\bin\Debug\net6.0\CondenseArrayToNumber.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CondenseArrayToNumber\bin\Debug\net6.0\CondenseArrayToNumber.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CondenseArrayToNumber\bin\Debug\net6.0\CondenseArrayToNumber.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CondenseArrayToNumber\bin\Debug\net6.0\CondenseArrayToNumber.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CondenseArrayToNumber\obj\Debug\net6.0\refint\CondenseArrayToNumber.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CondenseArrayToNumber\obj\Debug\net6.0\CondenseArrayToNumber.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CondenseArrayToNumber\obj\Debug\net6.0\ref\CondenseArrayToNumber.dll

@@ -1,0 +1,11 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Exam Preparation\Exam Preparation 3\01-Substring-Extractor-Resources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Exam Preparation\Exam Preparation 3\01-Substring-Extractor-Resources\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exam Preparation\Exam Preparation 3\01-Substring-Extractor-Resources\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exam Preparation\Exam Preparation 3\01-Substring-Extractor-Resources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Exam Preparation\Exam Preparation 3\01-Substring-Extractor-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exam Preparation\Exam Preparation 3\01-Substring-Extractor-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Exam Preparation\Exam Preparation 3\01-Substring-Extractor-Resources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exam Preparation\Exam Preparation 3\01-Substring-Extractor-Resources\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exam Preparation\Exam Preparation 3\01-Substring-Extractor-Resources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exam Preparation\Exam Preparation 3\01-Substring-Extractor-Resources\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exam Preparation\Exam Preparation 3\01-Substring-Extractor-Resources\TestApp\obj\Debug\net6.0\ref\TestApp.dll

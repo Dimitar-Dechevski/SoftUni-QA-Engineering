@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrapezoidArea\bin\Debug\net6.0\TrapezoidArea.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrapezoidArea\bin\Debug\net6.0\TrapezoidArea.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrapezoidArea\bin\Debug\net6.0\TrapezoidArea.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrapezoidArea\bin\Debug\net6.0\TrapezoidArea.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrapezoidArea\bin\Debug\net6.0\TrapezoidArea.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrapezoidArea\obj\Debug\net6.0\TrapezoidArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrapezoidArea\obj\Debug\net6.0\TrapezoidArea.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrapezoidArea\obj\Debug\net6.0\TrapezoidArea.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrapezoidArea\obj\Debug\net6.0\TrapezoidArea.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrapezoidArea\obj\Debug\net6.0\TrapezoidArea.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrapezoidArea\obj\Debug\net6.0\refint\TrapezoidArea.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrapezoidArea\obj\Debug\net6.0\TrapezoidArea.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrapezoidArea\obj\Debug\net6.0\TrapezoidArea.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrapezoidArea\obj\Debug\net6.0\ref\TrapezoidArea.dll

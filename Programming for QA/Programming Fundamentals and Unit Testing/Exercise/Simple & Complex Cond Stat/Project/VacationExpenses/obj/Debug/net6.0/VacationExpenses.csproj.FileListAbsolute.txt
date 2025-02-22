@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\VacationExpenses\bin\Debug\net6.0\VacationExpenses.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\VacationExpenses\bin\Debug\net6.0\VacationExpenses.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\VacationExpenses\bin\Debug\net6.0\VacationExpenses.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\VacationExpenses\bin\Debug\net6.0\VacationExpenses.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\VacationExpenses\bin\Debug\net6.0\VacationExpenses.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\VacationExpenses\obj\Debug\net6.0\VacationExpenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\VacationExpenses\obj\Debug\net6.0\VacationExpenses.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\VacationExpenses\obj\Debug\net6.0\VacationExpenses.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\VacationExpenses\obj\Debug\net6.0\VacationExpenses.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\VacationExpenses\obj\Debug\net6.0\VacationExpenses.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\VacationExpenses\obj\Debug\net6.0\refint\VacationExpenses.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\VacationExpenses\obj\Debug\net6.0\VacationExpenses.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\VacationExpenses\obj\Debug\net6.0\VacationExpenses.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\VacationExpenses\obj\Debug\net6.0\ref\VacationExpenses.dll

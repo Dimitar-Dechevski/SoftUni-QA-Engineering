@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Visual Studio\Project\TownInfo\bin\Debug\net6.0\TownInfo.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Visual Studio\Project\TownInfo\bin\Debug\net6.0\TownInfo.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Visual Studio\Project\TownInfo\bin\Debug\net6.0\TownInfo.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Visual Studio\Project\TownInfo\bin\Debug\net6.0\TownInfo.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Visual Studio\Project\TownInfo\bin\Debug\net6.0\TownInfo.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Visual Studio\Project\TownInfo\obj\Debug\net6.0\TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Visual Studio\Project\TownInfo\obj\Debug\net6.0\TownInfo.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Visual Studio\Project\TownInfo\obj\Debug\net6.0\TownInfo.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Visual Studio\Project\TownInfo\obj\Debug\net6.0\TownInfo.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Visual Studio\Project\TownInfo\obj\Debug\net6.0\TownInfo.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Visual Studio\Project\TownInfo\obj\Debug\net6.0\refint\TownInfo.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Visual Studio\Project\TownInfo\obj\Debug\net6.0\TownInfo.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Visual Studio\Project\TownInfo\obj\Debug\net6.0\TownInfo.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Visual Studio\Project\TownInfo\obj\Debug\net6.0\ref\TownInfo.dll

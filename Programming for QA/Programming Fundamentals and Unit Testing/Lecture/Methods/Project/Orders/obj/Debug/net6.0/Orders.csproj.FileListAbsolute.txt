@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\Orders\bin\Debug\net6.0\Orders.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\Orders\bin\Debug\net6.0\Orders.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\Orders\bin\Debug\net6.0\Orders.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\Orders\bin\Debug\net6.0\Orders.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\Orders\bin\Debug\net6.0\Orders.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\Orders\obj\Debug\net6.0\Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\Orders\obj\Debug\net6.0\Orders.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\Orders\obj\Debug\net6.0\Orders.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\Orders\obj\Debug\net6.0\Orders.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\Orders\obj\Debug\net6.0\Orders.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\Orders\obj\Debug\net6.0\refint\Orders.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\Orders\obj\Debug\net6.0\Orders.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\Orders\obj\Debug\net6.0\Orders.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\Orders\obj\Debug\net6.0\ref\Orders.dll

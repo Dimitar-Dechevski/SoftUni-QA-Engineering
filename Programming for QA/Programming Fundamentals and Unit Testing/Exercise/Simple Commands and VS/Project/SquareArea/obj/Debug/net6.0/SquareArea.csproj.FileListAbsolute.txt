@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\SquareArea\bin\Debug\net6.0\SquareArea.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\SquareArea\bin\Debug\net6.0\SquareArea.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\SquareArea\bin\Debug\net6.0\SquareArea.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\SquareArea\bin\Debug\net6.0\SquareArea.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\SquareArea\bin\Debug\net6.0\SquareArea.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\SquareArea\obj\Debug\net6.0\SquareArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\SquareArea\obj\Debug\net6.0\SquareArea.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\SquareArea\obj\Debug\net6.0\SquareArea.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\SquareArea\obj\Debug\net6.0\SquareArea.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\SquareArea\obj\Debug\net6.0\SquareArea.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\SquareArea\obj\Debug\net6.0\refint\SquareArea.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\SquareArea\obj\Debug\net6.0\SquareArea.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\SquareArea\obj\Debug\net6.0\SquareArea.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\SquareArea\obj\Debug\net6.0\ref\SquareArea.dll

@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\LatinLetters\bin\Debug\net6.0\LatinLetters.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\LatinLetters\bin\Debug\net6.0\LatinLetters.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\LatinLetters\bin\Debug\net6.0\LatinLetters.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\LatinLetters\bin\Debug\net6.0\LatinLetters.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\LatinLetters\bin\Debug\net6.0\LatinLetters.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\LatinLetters\obj\Debug\net6.0\LatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\LatinLetters\obj\Debug\net6.0\LatinLetters.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\LatinLetters\obj\Debug\net6.0\LatinLetters.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\LatinLetters\obj\Debug\net6.0\LatinLetters.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\LatinLetters\obj\Debug\net6.0\LatinLetters.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\LatinLetters\obj\Debug\net6.0\refint\LatinLetters.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\LatinLetters\obj\Debug\net6.0\LatinLetters.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\LatinLetters\obj\Debug\net6.0\LatinLetters.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\LatinLetters\obj\Debug\net6.0\ref\LatinLetters.dll

@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll

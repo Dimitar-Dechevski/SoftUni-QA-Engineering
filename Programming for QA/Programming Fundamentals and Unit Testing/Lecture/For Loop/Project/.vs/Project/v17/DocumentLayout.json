@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Lecture\\For Loop\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F89CE26D-79C9-4EC8-BED3-2103537DAEDD}|NumbersEndingIn7\\NumbersEndingIn7.csproj|d:\\qa\\programming for qa\\programming fundamentals and unit testing\\lecture\\for loop\\project\\numbersendingin7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89CE26D-79C9-4EC8-BED3-2103537DAEDD}|NumbersEndingIn7\\NumbersEndingIn7.csproj|solutionrelative:numbersendingin7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Lecture\\For Loop\\Project\\NumbersEndingIn7\\Program.cs",
+              "RelativeDocumentMoniker": "NumbersEndingIn7\\Program.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Lecture\\For Loop\\Project\\NumbersEndingIn7\\Program.cs",
+              "RelativeToolTip": "NumbersEndingIn7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:57:26.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

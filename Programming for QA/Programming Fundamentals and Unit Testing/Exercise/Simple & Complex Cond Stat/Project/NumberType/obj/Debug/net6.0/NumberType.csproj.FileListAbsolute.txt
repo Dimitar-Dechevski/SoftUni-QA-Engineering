@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\NumberType\bin\Debug\net6.0\NumberType.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\NumberType\bin\Debug\net6.0\NumberType.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\NumberType\bin\Debug\net6.0\NumberType.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\NumberType\bin\Debug\net6.0\NumberType.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\NumberType\bin\Debug\net6.0\NumberType.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\NumberType\obj\Debug\net6.0\NumberType.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\NumberType\obj\Debug\net6.0\NumberType.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\NumberType\obj\Debug\net6.0\NumberType.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\NumberType\obj\Debug\net6.0\NumberType.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\NumberType\obj\Debug\net6.0\NumberType.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\NumberType\obj\Debug\net6.0\refint\NumberType.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\NumberType\obj\Debug\net6.0\NumberType.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\NumberType\obj\Debug\net6.0\NumberType.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\NumberType\obj\Debug\net6.0\ref\NumberType.dll

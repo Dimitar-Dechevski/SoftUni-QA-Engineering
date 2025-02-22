@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationAdvanced\bin\Debug\net6.0\ListManipulationAdvanced.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationAdvanced\bin\Debug\net6.0\ListManipulationAdvanced.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationAdvanced\bin\Debug\net6.0\ListManipulationAdvanced.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationAdvanced\bin\Debug\net6.0\ListManipulationAdvanced.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationAdvanced\bin\Debug\net6.0\ListManipulationAdvanced.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationAdvanced\obj\Debug\net6.0\ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationAdvanced\obj\Debug\net6.0\ListManipulationAdvanced.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationAdvanced\obj\Debug\net6.0\ListManipulationAdvanced.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationAdvanced\obj\Debug\net6.0\ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationAdvanced\obj\Debug\net6.0\ListManipulationAdvanced.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationAdvanced\obj\Debug\net6.0\refint\ListManipulationAdvanced.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationAdvanced\obj\Debug\net6.0\ListManipulationAdvanced.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationAdvanced\obj\Debug\net6.0\ListManipulationAdvanced.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListManipulationAdvanced\obj\Debug\net6.0\ref\ListManipulationAdvanced.dll

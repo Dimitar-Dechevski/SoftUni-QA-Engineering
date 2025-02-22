@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\VehicleCatalogue\bin\Debug\net6.0\VehicleCatalogue.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\VehicleCatalogue\bin\Debug\net6.0\VehicleCatalogue.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\VehicleCatalogue\bin\Debug\net6.0\VehicleCatalogue.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\VehicleCatalogue\bin\Debug\net6.0\VehicleCatalogue.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\VehicleCatalogue\bin\Debug\net6.0\VehicleCatalogue.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\VehicleCatalogue\obj\Debug\net6.0\VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\VehicleCatalogue\obj\Debug\net6.0\VehicleCatalogue.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\VehicleCatalogue\obj\Debug\net6.0\VehicleCatalogue.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\VehicleCatalogue\obj\Debug\net6.0\VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\VehicleCatalogue\obj\Debug\net6.0\VehicleCatalogue.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\VehicleCatalogue\obj\Debug\net6.0\refint\VehicleCatalogue.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\VehicleCatalogue\obj\Debug\net6.0\VehicleCatalogue.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\VehicleCatalogue\obj\Debug\net6.0\VehicleCatalogue.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\VehicleCatalogue\obj\Debug\net6.0\ref\VehicleCatalogue.dll

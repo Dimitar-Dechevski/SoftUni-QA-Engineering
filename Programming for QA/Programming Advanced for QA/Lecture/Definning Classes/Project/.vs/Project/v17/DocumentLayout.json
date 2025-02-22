@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lecture\\Definning Classes\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86571EDD-C639-4E89-AC51-4608F9E35619}|CarProject\\CarProject.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lecture\\definning classes\\project\\carproject\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86571EDD-C639-4E89-AC51-4608F9E35619}|CarProject\\CarProject.csproj|solutionrelative:carproject\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86571EDD-C639-4E89-AC51-4608F9E35619}|CarProject\\CarProject.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lecture\\definning classes\\project\\carproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86571EDD-C639-4E89-AC51-4608F9E35619}|CarProject\\CarProject.csproj|solutionrelative:carproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86571EDD-C639-4E89-AC51-4608F9E35619}|CarProject\\CarProject.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lecture\\definning classes\\project\\carproject\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86571EDD-C639-4E89-AC51-4608F9E35619}|CarProject\\CarProject.csproj|solutionrelative:carproject\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86571EDD-C639-4E89-AC51-4608F9E35619}|CarProject\\CarProject.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\lecture\\definning classes\\project\\carproject\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86571EDD-C639-4E89-AC51-4608F9E35619}|CarProject\\CarProject.csproj|solutionrelative:carproject\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tire.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lecture\\Definning Classes\\Project\\CarProject\\Tire.cs",
+              "RelativeDocumentMoniker": "CarProject\\Tire.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lecture\\Definning Classes\\Project\\CarProject\\Tire.cs",
+              "RelativeToolTip": "CarProject\\Tire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:48:49.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lecture\\Definning Classes\\Project\\CarProject\\Engine.cs",
+              "RelativeDocumentMoniker": "CarProject\\Engine.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lecture\\Definning Classes\\Project\\CarProject\\Engine.cs",
+              "RelativeToolTip": "CarProject\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:46:50.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lecture\\Definning Classes\\Project\\CarProject\\Car.cs",
+              "RelativeDocumentMoniker": "CarProject\\Car.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lecture\\Definning Classes\\Project\\CarProject\\Car.cs",
+              "RelativeToolTip": "CarProject\\Car.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:23:26.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lecture\\Definning Classes\\Project\\CarProject\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarProject\\StartUp.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Lecture\\Definning Classes\\Project\\CarProject\\StartUp.cs",
+              "RelativeToolTip": "CarProject\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:25:21.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

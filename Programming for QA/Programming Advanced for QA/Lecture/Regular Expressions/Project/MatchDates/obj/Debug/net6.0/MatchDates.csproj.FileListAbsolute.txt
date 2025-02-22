@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Regular Expressions\Project\MatchDates\obj\Debug\net6.0\MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Regular Expressions\Project\MatchDates\obj\Debug\net6.0\MatchDates.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Regular Expressions\Project\MatchDates\obj\Debug\net6.0\MatchDates.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Regular Expressions\Project\MatchDates\obj\Debug\net6.0\MatchDates.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Regular Expressions\Project\MatchDates\bin\Debug\net6.0\MatchDates.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Regular Expressions\Project\MatchDates\bin\Debug\net6.0\MatchDates.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Regular Expressions\Project\MatchDates\bin\Debug\net6.0\MatchDates.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Regular Expressions\Project\MatchDates\bin\Debug\net6.0\MatchDates.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Regular Expressions\Project\MatchDates\bin\Debug\net6.0\MatchDates.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Regular Expressions\Project\MatchDates\obj\Debug\net6.0\MatchDates.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Regular Expressions\Project\MatchDates\obj\Debug\net6.0\refint\MatchDates.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Regular Expressions\Project\MatchDates\obj\Debug\net6.0\MatchDates.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Regular Expressions\Project\MatchDates\obj\Debug\net6.0\MatchDates.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Regular Expressions\Project\MatchDates\obj\Debug\net6.0\ref\MatchDates.dll

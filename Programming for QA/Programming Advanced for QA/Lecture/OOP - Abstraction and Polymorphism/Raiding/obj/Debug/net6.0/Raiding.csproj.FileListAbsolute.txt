@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\bin\Debug\net6.0\Raiding.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\bin\Debug\net6.0\Raiding.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\bin\Debug\net6.0\Raiding.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\bin\Debug\net6.0\Raiding.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\bin\Debug\net6.0\Raiding.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\obj\Debug\net6.0\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\obj\Debug\net6.0\Raiding.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\obj\Debug\net6.0\Raiding.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\obj\Debug\net6.0\refint\Raiding.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\obj\Debug\net6.0\Raiding.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\obj\Debug\net6.0\Raiding.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Raiding\obj\Debug\net6.0\ref\Raiding.dll

@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\CalculateFactorialNumber\bin\Debug\net6.0\CalculateFactorialNumber.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\CalculateFactorialNumber\bin\Debug\net6.0\CalculateFactorialNumber.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\CalculateFactorialNumber\bin\Debug\net6.0\CalculateFactorialNumber.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\CalculateFactorialNumber\bin\Debug\net6.0\CalculateFactorialNumber.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\CalculateFactorialNumber\bin\Debug\net6.0\CalculateFactorialNumber.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\CalculateFactorialNumber\obj\Debug\net6.0\CalculateFactorialNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\CalculateFactorialNumber\obj\Debug\net6.0\CalculateFactorialNumber.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\CalculateFactorialNumber\obj\Debug\net6.0\CalculateFactorialNumber.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\CalculateFactorialNumber\obj\Debug\net6.0\CalculateFactorialNumber.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\CalculateFactorialNumber\obj\Debug\net6.0\CalculateFactorialNumber.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\CalculateFactorialNumber\obj\Debug\net6.0\refint\CalculateFactorialNumber.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\CalculateFactorialNumber\obj\Debug\net6.0\CalculateFactorialNumber.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\CalculateFactorialNumber\obj\Debug\net6.0\CalculateFactorialNumber.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\CalculateFactorialNumber\obj\Debug\net6.0\ref\CalculateFactorialNumber.dll

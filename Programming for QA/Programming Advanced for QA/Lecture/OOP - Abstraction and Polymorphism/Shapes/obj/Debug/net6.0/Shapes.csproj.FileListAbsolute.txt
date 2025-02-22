@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\bin\Debug\net6.0\Shapes.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\bin\Debug\net6.0\Shapes.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\bin\Debug\net6.0\Shapes.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\bin\Debug\net6.0\Shapes.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\Shapes.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\Shapes.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Shapes\obj\Debug\net6.0\ref\Shapes.dll

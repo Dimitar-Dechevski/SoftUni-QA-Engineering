@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrianglePerimeter\bin\Debug\net6.0\TrianglePerimeter.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrianglePerimeter\bin\Debug\net6.0\TrianglePerimeter.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrianglePerimeter\bin\Debug\net6.0\TrianglePerimeter.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrianglePerimeter\bin\Debug\net6.0\TrianglePerimeter.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrianglePerimeter\bin\Debug\net6.0\TrianglePerimeter.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrianglePerimeter\obj\Debug\net6.0\TrianglePerimeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrianglePerimeter\obj\Debug\net6.0\TrianglePerimeter.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrianglePerimeter\obj\Debug\net6.0\TrianglePerimeter.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrianglePerimeter\obj\Debug\net6.0\TrianglePerimeter.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrianglePerimeter\obj\Debug\net6.0\TrianglePerimeter.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrianglePerimeter\obj\Debug\net6.0\refint\TrianglePerimeter.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrianglePerimeter\obj\Debug\net6.0\TrianglePerimeter.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrianglePerimeter\obj\Debug\net6.0\TrianglePerimeter.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Exercise\Project\TrianglePerimeter\obj\Debug\net6.0\ref\TrianglePerimeter.dll

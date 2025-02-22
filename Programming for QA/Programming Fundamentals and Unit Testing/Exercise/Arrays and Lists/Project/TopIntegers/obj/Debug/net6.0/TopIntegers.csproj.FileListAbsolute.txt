@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\TopIntegers\bin\Debug\net6.0\TopIntegers.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\TopIntegers\bin\Debug\net6.0\TopIntegers.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\TopIntegers\bin\Debug\net6.0\TopIntegers.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\TopIntegers\bin\Debug\net6.0\TopIntegers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\TopIntegers\bin\Debug\net6.0\TopIntegers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\TopIntegers\obj\Debug\net6.0\TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\TopIntegers\obj\Debug\net6.0\TopIntegers.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\TopIntegers\obj\Debug\net6.0\TopIntegers.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\TopIntegers\obj\Debug\net6.0\TopIntegers.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\TopIntegers\obj\Debug\net6.0\TopIntegers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\TopIntegers\obj\Debug\net6.0\refint\TopIntegers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\TopIntegers\obj\Debug\net6.0\TopIntegers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\TopIntegers\obj\Debug\net6.0\TopIntegers.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\TopIntegers\obj\Debug\net6.0\ref\TopIntegers.dll

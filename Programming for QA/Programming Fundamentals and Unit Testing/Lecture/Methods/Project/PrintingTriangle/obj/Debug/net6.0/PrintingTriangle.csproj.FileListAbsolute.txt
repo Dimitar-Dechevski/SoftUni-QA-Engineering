@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\PrintingTriangle\bin\Debug\net6.0\PrintingTriangle.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\PrintingTriangle\bin\Debug\net6.0\PrintingTriangle.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\PrintingTriangle\bin\Debug\net6.0\PrintingTriangle.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\PrintingTriangle\bin\Debug\net6.0\PrintingTriangle.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\PrintingTriangle\bin\Debug\net6.0\PrintingTriangle.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\PrintingTriangle\obj\Debug\net6.0\PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\PrintingTriangle\obj\Debug\net6.0\PrintingTriangle.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\PrintingTriangle\obj\Debug\net6.0\PrintingTriangle.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\PrintingTriangle\obj\Debug\net6.0\PrintingTriangle.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\PrintingTriangle\obj\Debug\net6.0\PrintingTriangle.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\PrintingTriangle\obj\Debug\net6.0\refint\PrintingTriangle.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\PrintingTriangle\obj\Debug\net6.0\PrintingTriangle.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\PrintingTriangle\obj\Debug\net6.0\PrintingTriangle.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\PrintingTriangle\obj\Debug\net6.0\ref\PrintingTriangle.dll

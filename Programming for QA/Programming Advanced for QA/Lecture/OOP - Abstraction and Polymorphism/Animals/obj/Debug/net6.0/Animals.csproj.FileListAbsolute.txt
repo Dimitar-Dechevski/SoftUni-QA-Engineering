@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\bin\Debug\net6.0\Animals.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\bin\Debug\net6.0\Animals.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\bin\Debug\net6.0\Animals.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\bin\Debug\net6.0\Animals.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\Animals.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\refint\Animals.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\Animals.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Abstraction and Polymorphism\14-Resouces-OOP-Principles-Abstraction-Polymorphism\Animals\obj\Debug\net6.0\ref\Animals.dll

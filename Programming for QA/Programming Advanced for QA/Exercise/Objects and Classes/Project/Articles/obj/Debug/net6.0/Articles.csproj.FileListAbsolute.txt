@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\Articles\bin\Debug\net6.0\Articles.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\Articles\bin\Debug\net6.0\Articles.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\Articles\bin\Debug\net6.0\Articles.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\Articles\bin\Debug\net6.0\Articles.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\Articles\bin\Debug\net6.0\Articles.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\Articles\obj\Debug\net6.0\Articles.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\Articles\obj\Debug\net6.0\Articles.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\Articles\obj\Debug\net6.0\Articles.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\Articles\obj\Debug\net6.0\Articles.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\Articles\obj\Debug\net6.0\Articles.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\Articles\obj\Debug\net6.0\refint\Articles.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\Articles\obj\Debug\net6.0\Articles.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\Articles\obj\Debug\net6.0\Articles.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Objects and Classes\Project\Articles\obj\Debug\net6.0\ref\Articles.dll

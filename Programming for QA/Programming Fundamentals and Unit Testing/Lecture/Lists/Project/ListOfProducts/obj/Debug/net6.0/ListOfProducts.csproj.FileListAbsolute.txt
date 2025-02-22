@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListOfProducts\bin\Debug\net6.0\ListOfProducts.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListOfProducts\bin\Debug\net6.0\ListOfProducts.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListOfProducts\bin\Debug\net6.0\ListOfProducts.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListOfProducts\bin\Debug\net6.0\ListOfProducts.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListOfProducts\bin\Debug\net6.0\ListOfProducts.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListOfProducts\obj\Debug\net6.0\ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListOfProducts\obj\Debug\net6.0\ListOfProducts.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListOfProducts\obj\Debug\net6.0\ListOfProducts.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListOfProducts\obj\Debug\net6.0\ListOfProducts.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListOfProducts\obj\Debug\net6.0\ListOfProducts.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListOfProducts\obj\Debug\net6.0\refint\ListOfProducts.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListOfProducts\obj\Debug\net6.0\ListOfProducts.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListOfProducts\obj\Debug\net6.0\ListOfProducts.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\ListOfProducts\obj\Debug\net6.0\ref\ListOfProducts.dll

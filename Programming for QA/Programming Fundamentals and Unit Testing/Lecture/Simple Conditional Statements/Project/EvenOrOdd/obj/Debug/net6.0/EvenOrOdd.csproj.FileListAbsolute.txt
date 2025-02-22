@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\EvenOrOdd\obj\Debug\net6.0\refint\EvenOrOdd.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\EvenOrOdd\obj\Debug\net6.0\ref\EvenOrOdd.dll

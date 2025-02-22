@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\SpeedInfo\bin\Debug\net6.0\SpeedInfo.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\SpeedInfo\bin\Debug\net6.0\SpeedInfo.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\SpeedInfo\bin\Debug\net6.0\SpeedInfo.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\SpeedInfo\bin\Debug\net6.0\SpeedInfo.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\SpeedInfo\bin\Debug\net6.0\SpeedInfo.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\SpeedInfo\obj\Debug\net6.0\SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\SpeedInfo\obj\Debug\net6.0\SpeedInfo.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\SpeedInfo\obj\Debug\net6.0\SpeedInfo.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\SpeedInfo\obj\Debug\net6.0\SpeedInfo.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\SpeedInfo\obj\Debug\net6.0\SpeedInfo.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\SpeedInfo\obj\Debug\net6.0\refint\SpeedInfo.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\SpeedInfo\obj\Debug\net6.0\SpeedInfo.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\SpeedInfo\obj\Debug\net6.0\SpeedInfo.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\Lecture\Simple Conditional Statements\Project\SpeedInfo\obj\Debug\net6.0\ref\SpeedInfo.dll

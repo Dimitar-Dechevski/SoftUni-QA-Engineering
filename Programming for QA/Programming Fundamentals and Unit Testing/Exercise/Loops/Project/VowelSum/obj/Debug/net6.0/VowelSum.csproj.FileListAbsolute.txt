@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\VowelSum\bin\Debug\net6.0\VowelSum.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\VowelSum\bin\Debug\net6.0\VowelSum.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\VowelSum\bin\Debug\net6.0\VowelSum.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\VowelSum\bin\Debug\net6.0\VowelSum.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\VowelSum\bin\Debug\net6.0\VowelSum.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\VowelSum\obj\Debug\net6.0\VowelSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\VowelSum\obj\Debug\net6.0\VowelSum.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\VowelSum\obj\Debug\net6.0\VowelSum.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\VowelSum\obj\Debug\net6.0\VowelSum.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\VowelSum\obj\Debug\net6.0\VowelSum.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\VowelSum\obj\Debug\net6.0\refint\VowelSum.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\VowelSum\obj\Debug\net6.0\VowelSum.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\VowelSum\obj\Debug\net6.0\VowelSum.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\VowelSum\obj\Debug\net6.0\ref\VowelSum.dll

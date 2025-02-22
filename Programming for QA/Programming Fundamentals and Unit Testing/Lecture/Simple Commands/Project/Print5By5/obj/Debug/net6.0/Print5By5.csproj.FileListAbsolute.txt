@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Print5By5\bin\Debug\net6.0\Print5By5.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Print5By5\bin\Debug\net6.0\Print5By5.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Print5By5\bin\Debug\net6.0\Print5By5.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Print5By5\bin\Debug\net6.0\Print5By5.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Print5By5\bin\Debug\net6.0\Print5By5.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Print5By5\obj\Debug\net6.0\Print5By5.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Print5By5\obj\Debug\net6.0\Print5By5.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Print5By5\obj\Debug\net6.0\Print5By5.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Print5By5\obj\Debug\net6.0\Print5By5.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Print5By5\obj\Debug\net6.0\Print5By5.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Print5By5\obj\Debug\net6.0\refint\Print5By5.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Print5By5\obj\Debug\net6.0\Print5By5.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Print5By5\obj\Debug\net6.0\Print5By5.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Print5By5\obj\Debug\net6.0\ref\Print5By5.dll

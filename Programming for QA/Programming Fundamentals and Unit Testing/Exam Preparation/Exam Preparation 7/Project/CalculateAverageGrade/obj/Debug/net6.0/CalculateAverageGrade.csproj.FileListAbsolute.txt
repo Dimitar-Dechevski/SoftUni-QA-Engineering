@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 7 - 5 November 2023\Project\CalculateAverageGrade\bin\Debug\net6.0\CalculateAverageGrade.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 7 - 5 November 2023\Project\CalculateAverageGrade\bin\Debug\net6.0\CalculateAverageGrade.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 7 - 5 November 2023\Project\CalculateAverageGrade\bin\Debug\net6.0\CalculateAverageGrade.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 7 - 5 November 2023\Project\CalculateAverageGrade\bin\Debug\net6.0\CalculateAverageGrade.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 7 - 5 November 2023\Project\CalculateAverageGrade\bin\Debug\net6.0\CalculateAverageGrade.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 7 - 5 November 2023\Project\CalculateAverageGrade\obj\Debug\net6.0\CalculateAverageGrade.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 7 - 5 November 2023\Project\CalculateAverageGrade\obj\Debug\net6.0\CalculateAverageGrade.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 7 - 5 November 2023\Project\CalculateAverageGrade\obj\Debug\net6.0\CalculateAverageGrade.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 7 - 5 November 2023\Project\CalculateAverageGrade\obj\Debug\net6.0\CalculateAverageGrade.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 7 - 5 November 2023\Project\CalculateAverageGrade\obj\Debug\net6.0\CalculateAverageGrade.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 7 - 5 November 2023\Project\CalculateAverageGrade\obj\Debug\net6.0\refint\CalculateAverageGrade.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 7 - 5 November 2023\Project\CalculateAverageGrade\obj\Debug\net6.0\CalculateAverageGrade.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 7 - 5 November 2023\Project\CalculateAverageGrade\obj\Debug\net6.0\CalculateAverageGrade.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 7 - 5 November 2023\Project\CalculateAverageGrade\obj\Debug\net6.0\ref\CalculateAverageGrade.dll

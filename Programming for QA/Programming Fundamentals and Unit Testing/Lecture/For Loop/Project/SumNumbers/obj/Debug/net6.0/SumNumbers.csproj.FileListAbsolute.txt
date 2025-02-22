@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\SumNumbers\bin\Debug\net6.0\SumNumbers.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\SumNumbers\bin\Debug\net6.0\SumNumbers.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\SumNumbers\bin\Debug\net6.0\SumNumbers.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\SumNumbers\bin\Debug\net6.0\SumNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\SumNumbers\bin\Debug\net6.0\SumNumbers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\SumNumbers\obj\Debug\net6.0\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\SumNumbers\obj\Debug\net6.0\SumNumbers.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\SumNumbers\obj\Debug\net6.0\SumNumbers.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\SumNumbers\obj\Debug\net6.0\SumNumbers.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\SumNumbers\obj\Debug\net6.0\SumNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\SumNumbers\obj\Debug\net6.0\refint\SumNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\SumNumbers\obj\Debug\net6.0\SumNumbers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\SumNumbers\obj\Debug\net6.0\SumNumbers.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\SumNumbers\obj\Debug\net6.0\ref\SumNumbers.dll

@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\DigitsLettersAndOther\bin\Debug\net6.0\DigitsLettersAndOther.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\DigitsLettersAndOther\bin\Debug\net6.0\DigitsLettersAndOther.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\DigitsLettersAndOther\bin\Debug\net6.0\DigitsLettersAndOther.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\DigitsLettersAndOther\bin\Debug\net6.0\DigitsLettersAndOther.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\DigitsLettersAndOther\bin\Debug\net6.0\DigitsLettersAndOther.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\DigitsLettersAndOther\obj\Debug\net6.0\DigitsLettersAndOther.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\DigitsLettersAndOther\obj\Debug\net6.0\DigitsLettersAndOther.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\DigitsLettersAndOther\obj\Debug\net6.0\DigitsLettersAndOther.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\DigitsLettersAndOther\obj\Debug\net6.0\DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\DigitsLettersAndOther\obj\Debug\net6.0\DigitsLettersAndOther.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\DigitsLettersAndOther\obj\Debug\net6.0\refint\DigitsLettersAndOther.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\DigitsLettersAndOther\obj\Debug\net6.0\DigitsLettersAndOther.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\DigitsLettersAndOther\obj\Debug\net6.0\DigitsLettersAndOther.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\DigitsLettersAndOther\obj\Debug\net6.0\ref\DigitsLettersAndOther.dll

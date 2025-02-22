@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Calculations\bin\Debug\net6.0\Calculations.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Calculations\bin\Debug\net6.0\Calculations.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Calculations\bin\Debug\net6.0\Calculations.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Calculations\bin\Debug\net6.0\Calculations.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Calculations\bin\Debug\net6.0\Calculations.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Calculations\obj\Debug\net6.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Calculations\obj\Debug\net6.0\Calculations.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Calculations\obj\Debug\net6.0\Calculations.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Calculations\obj\Debug\net6.0\refint\Calculations.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Calculations\obj\Debug\net6.0\Calculations.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Calculations\obj\Debug\net6.0\Calculations.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\Calculations\obj\Debug\net6.0\ref\Calculations.dll

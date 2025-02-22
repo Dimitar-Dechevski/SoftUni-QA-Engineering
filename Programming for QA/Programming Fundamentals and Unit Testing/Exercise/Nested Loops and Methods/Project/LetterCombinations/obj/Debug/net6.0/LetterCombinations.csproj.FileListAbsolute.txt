@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\LetterCombinations\bin\Debug\net6.0\LetterCombinations.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\LetterCombinations\bin\Debug\net6.0\LetterCombinations.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\LetterCombinations\bin\Debug\net6.0\LetterCombinations.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\LetterCombinations\bin\Debug\net6.0\LetterCombinations.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\LetterCombinations\bin\Debug\net6.0\LetterCombinations.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\LetterCombinations\obj\Debug\net6.0\LetterCombinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\LetterCombinations\obj\Debug\net6.0\LetterCombinations.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\LetterCombinations\obj\Debug\net6.0\LetterCombinations.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\LetterCombinations\obj\Debug\net6.0\LetterCombinations.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\LetterCombinations\obj\Debug\net6.0\LetterCombinations.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\LetterCombinations\obj\Debug\net6.0\refint\LetterCombinations.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\LetterCombinations\obj\Debug\net6.0\LetterCombinations.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\LetterCombinations\obj\Debug\net6.0\LetterCombinations.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\LetterCombinations\obj\Debug\net6.0\ref\LetterCombinations.dll

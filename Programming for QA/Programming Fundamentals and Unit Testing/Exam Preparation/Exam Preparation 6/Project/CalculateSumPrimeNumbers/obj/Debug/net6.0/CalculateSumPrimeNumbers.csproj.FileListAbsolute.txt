@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 6 - 20 December 2023\Project\CalculateSumPrimeNumbers\bin\Debug\net6.0\CalculateSumPrimeNumbers.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 6 - 20 December 2023\Project\CalculateSumPrimeNumbers\bin\Debug\net6.0\CalculateSumPrimeNumbers.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 6 - 20 December 2023\Project\CalculateSumPrimeNumbers\bin\Debug\net6.0\CalculateSumPrimeNumbers.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 6 - 20 December 2023\Project\CalculateSumPrimeNumbers\bin\Debug\net6.0\CalculateSumPrimeNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 6 - 20 December 2023\Project\CalculateSumPrimeNumbers\bin\Debug\net6.0\CalculateSumPrimeNumbers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 6 - 20 December 2023\Project\CalculateSumPrimeNumbers\obj\Debug\net6.0\CalculateSumPrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 6 - 20 December 2023\Project\CalculateSumPrimeNumbers\obj\Debug\net6.0\CalculateSumPrimeNumbers.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 6 - 20 December 2023\Project\CalculateSumPrimeNumbers\obj\Debug\net6.0\CalculateSumPrimeNumbers.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 6 - 20 December 2023\Project\CalculateSumPrimeNumbers\obj\Debug\net6.0\CalculateSumPrimeNumbers.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 6 - 20 December 2023\Project\CalculateSumPrimeNumbers\obj\Debug\net6.0\CalculateSumPrimeNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 6 - 20 December 2023\Project\CalculateSumPrimeNumbers\obj\Debug\net6.0\refint\CalculateSumPrimeNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 6 - 20 December 2023\Project\CalculateSumPrimeNumbers\obj\Debug\net6.0\CalculateSumPrimeNumbers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 6 - 20 December 2023\Project\CalculateSumPrimeNumbers\obj\Debug\net6.0\CalculateSumPrimeNumbers.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 6 - 20 December 2023\Project\CalculateSumPrimeNumbers\obj\Debug\net6.0\ref\CalculateSumPrimeNumbers.dll

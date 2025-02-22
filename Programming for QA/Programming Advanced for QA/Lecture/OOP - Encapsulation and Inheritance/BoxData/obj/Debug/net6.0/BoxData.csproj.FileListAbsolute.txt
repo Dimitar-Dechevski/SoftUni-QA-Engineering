@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\refint\BoxData.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\ref\BoxData.dll

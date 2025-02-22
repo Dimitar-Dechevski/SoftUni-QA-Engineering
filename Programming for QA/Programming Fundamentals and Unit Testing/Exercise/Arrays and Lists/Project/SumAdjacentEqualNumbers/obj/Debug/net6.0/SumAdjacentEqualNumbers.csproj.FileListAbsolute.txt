@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\SumAdjacentEqualNumbers\bin\Debug\net6.0\SumAdjacentEqualNumbers.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\SumAdjacentEqualNumbers\bin\Debug\net6.0\SumAdjacentEqualNumbers.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\SumAdjacentEqualNumbers\bin\Debug\net6.0\SumAdjacentEqualNumbers.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\SumAdjacentEqualNumbers\bin\Debug\net6.0\SumAdjacentEqualNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\SumAdjacentEqualNumbers\bin\Debug\net6.0\SumAdjacentEqualNumbers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\SumAdjacentEqualNumbers\obj\Debug\net6.0\SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\SumAdjacentEqualNumbers\obj\Debug\net6.0\SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\SumAdjacentEqualNumbers\obj\Debug\net6.0\SumAdjacentEqualNumbers.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\SumAdjacentEqualNumbers\obj\Debug\net6.0\SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\SumAdjacentEqualNumbers\obj\Debug\net6.0\SumAdjacentEqualNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\SumAdjacentEqualNumbers\obj\Debug\net6.0\refint\SumAdjacentEqualNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\SumAdjacentEqualNumbers\obj\Debug\net6.0\SumAdjacentEqualNumbers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\SumAdjacentEqualNumbers\obj\Debug\net6.0\SumAdjacentEqualNumbers.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\SumAdjacentEqualNumbers\obj\Debug\net6.0\ref\SumAdjacentEqualNumbers.dll

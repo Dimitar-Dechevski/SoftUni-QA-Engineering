@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SumOfIntegers\obj\Debug\net6.0\refint\SumOfIntegers.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Exception Handling\Project\SumOfIntegers\obj\Debug\net6.0\ref\SumOfIntegers.dll

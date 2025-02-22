@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberInRange\bin\Debug\net6.0\NumberInRange.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberInRange\bin\Debug\net6.0\NumberInRange.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberInRange\bin\Debug\net6.0\NumberInRange.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberInRange\bin\Debug\net6.0\NumberInRange.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberInRange\bin\Debug\net6.0\NumberInRange.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberInRange\obj\Debug\net6.0\NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberInRange\obj\Debug\net6.0\NumberInRange.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberInRange\obj\Debug\net6.0\NumberInRange.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberInRange\obj\Debug\net6.0\NumberInRange.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberInRange\obj\Debug\net6.0\NumberInRange.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberInRange\obj\Debug\net6.0\refint\NumberInRange.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberInRange\obj\Debug\net6.0\NumberInRange.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberInRange\obj\Debug\net6.0\NumberInRange.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberInRange\obj\Debug\net6.0\ref\NumberInRange.dll

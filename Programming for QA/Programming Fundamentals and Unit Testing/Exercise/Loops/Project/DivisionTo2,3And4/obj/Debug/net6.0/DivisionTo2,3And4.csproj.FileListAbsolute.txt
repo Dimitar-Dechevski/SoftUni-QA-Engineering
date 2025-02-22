@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\DivisionTo2,3And4\obj\Debug\net6.0\DivisionTo2,3And4.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\DivisionTo2,3And4\obj\Debug\net6.0\DivisionTo2,3And4.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\DivisionTo2,3And4\obj\Debug\net6.0\DivisionTo2,3And4.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\DivisionTo2,3And4\obj\Debug\net6.0\DivisionTo2,3And4.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\DivisionTo2,3And4\bin\Debug\net6.0\DivisionTo2,3And4.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\DivisionTo2,3And4\bin\Debug\net6.0\DivisionTo2,3And4.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\DivisionTo2,3And4\bin\Debug\net6.0\DivisionTo2,3And4.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\DivisionTo2,3And4\bin\Debug\net6.0\DivisionTo2,3And4.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\DivisionTo2,3And4\bin\Debug\net6.0\DivisionTo2,3And4.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\DivisionTo2,3And4\obj\Debug\net6.0\DivisionTo2,3And4.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\DivisionTo2,3And4\obj\Debug\net6.0\refint\DivisionTo2,3And4.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\DivisionTo2,3And4\obj\Debug\net6.0\DivisionTo2,3And4.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\DivisionTo2,3And4\obj\Debug\net6.0\DivisionTo2,3And4.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\DivisionTo2,3And4\obj\Debug\net6.0\ref\DivisionTo2,3And4.dll

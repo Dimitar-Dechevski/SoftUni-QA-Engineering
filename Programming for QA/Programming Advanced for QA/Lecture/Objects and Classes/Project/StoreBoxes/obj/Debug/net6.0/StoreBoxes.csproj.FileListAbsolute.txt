@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\StoreBoxes\bin\Debug\net6.0\StoreBoxes.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\StoreBoxes\bin\Debug\net6.0\StoreBoxes.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\StoreBoxes\bin\Debug\net6.0\StoreBoxes.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\StoreBoxes\bin\Debug\net6.0\StoreBoxes.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\StoreBoxes\bin\Debug\net6.0\StoreBoxes.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\StoreBoxes\obj\Debug\net6.0\StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\StoreBoxes\obj\Debug\net6.0\StoreBoxes.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\StoreBoxes\obj\Debug\net6.0\StoreBoxes.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\StoreBoxes\obj\Debug\net6.0\StoreBoxes.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\StoreBoxes\obj\Debug\net6.0\StoreBoxes.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\StoreBoxes\obj\Debug\net6.0\refint\StoreBoxes.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\StoreBoxes\obj\Debug\net6.0\StoreBoxes.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\StoreBoxes\obj\Debug\net6.0\StoreBoxes.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Objects and Classes\Project\StoreBoxes\obj\Debug\net6.0\ref\StoreBoxes.dll

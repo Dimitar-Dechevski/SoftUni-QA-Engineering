@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberProcessor\bin\Debug\net6.0\NumberProcessor.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberProcessor\bin\Debug\net6.0\NumberProcessor.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberProcessor\bin\Debug\net6.0\NumberProcessor.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberProcessor\bin\Debug\net6.0\NumberProcessor.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberProcessor\bin\Debug\net6.0\NumberProcessor.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberProcessor\obj\Debug\net6.0\NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberProcessor\obj\Debug\net6.0\NumberProcessor.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberProcessor\obj\Debug\net6.0\NumberProcessor.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberProcessor\obj\Debug\net6.0\NumberProcessor.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberProcessor\obj\Debug\net6.0\NumberProcessor.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberProcessor\obj\Debug\net6.0\refint\NumberProcessor.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberProcessor\obj\Debug\net6.0\NumberProcessor.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberProcessor\obj\Debug\net6.0\NumberProcessor.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\NumberProcessor\obj\Debug\net6.0\ref\NumberProcessor.dll

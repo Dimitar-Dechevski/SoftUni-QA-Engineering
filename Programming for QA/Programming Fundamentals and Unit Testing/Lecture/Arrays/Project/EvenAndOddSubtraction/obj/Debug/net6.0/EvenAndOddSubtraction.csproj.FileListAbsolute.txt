@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Arrays\Project\EvenAndOddSubtraction\bin\Debug\net6.0\EvenAndOddSubtraction.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Arrays\Project\EvenAndOddSubtraction\bin\Debug\net6.0\EvenAndOddSubtraction.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Arrays\Project\EvenAndOddSubtraction\bin\Debug\net6.0\EvenAndOddSubtraction.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Arrays\Project\EvenAndOddSubtraction\bin\Debug\net6.0\EvenAndOddSubtraction.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Arrays\Project\EvenAndOddSubtraction\bin\Debug\net6.0\EvenAndOddSubtraction.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Arrays\Project\EvenAndOddSubtraction\obj\Debug\net6.0\EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Arrays\Project\EvenAndOddSubtraction\obj\Debug\net6.0\EvenAndOddSubtraction.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Arrays\Project\EvenAndOddSubtraction\obj\Debug\net6.0\EvenAndOddSubtraction.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Arrays\Project\EvenAndOddSubtraction\obj\Debug\net6.0\EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Arrays\Project\EvenAndOddSubtraction\obj\Debug\net6.0\EvenAndOddSubtraction.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Arrays\Project\EvenAndOddSubtraction\obj\Debug\net6.0\refint\EvenAndOddSubtraction.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Arrays\Project\EvenAndOddSubtraction\obj\Debug\net6.0\EvenAndOddSubtraction.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Arrays\Project\EvenAndOddSubtraction\obj\Debug\net6.0\EvenAndOddSubtraction.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Arrays\Project\EvenAndOddSubtraction\obj\Debug\net6.0\ref\EvenAndOddSubtraction.dll

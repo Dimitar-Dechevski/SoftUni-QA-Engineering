@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\RemoveNegativesAndReverse\bin\Debug\net6.0\RemoveNegativesAndReverse.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\RemoveNegativesAndReverse\bin\Debug\net6.0\RemoveNegativesAndReverse.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\RemoveNegativesAndReverse\bin\Debug\net6.0\RemoveNegativesAndReverse.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\RemoveNegativesAndReverse\bin\Debug\net6.0\RemoveNegativesAndReverse.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\RemoveNegativesAndReverse\bin\Debug\net6.0\RemoveNegativesAndReverse.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\RemoveNegativesAndReverse\obj\Debug\net6.0\RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\RemoveNegativesAndReverse\obj\Debug\net6.0\RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\RemoveNegativesAndReverse\obj\Debug\net6.0\RemoveNegativesAndReverse.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\RemoveNegativesAndReverse\obj\Debug\net6.0\RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\RemoveNegativesAndReverse\obj\Debug\net6.0\RemoveNegativesAndReverse.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\RemoveNegativesAndReverse\obj\Debug\net6.0\refint\RemoveNegativesAndReverse.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\RemoveNegativesAndReverse\obj\Debug\net6.0\RemoveNegativesAndReverse.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\RemoveNegativesAndReverse\obj\Debug\net6.0\RemoveNegativesAndReverse.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Lists\Project\RemoveNegativesAndReverse\obj\Debug\net6.0\ref\RemoveNegativesAndReverse.dll

@@ -1,0 +1,11 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\bin\Debug\net6.0\Players.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\bin\Debug\net6.0\Players.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\bin\Debug\net6.0\Players.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\Players.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\Players.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\Players.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\Players.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\Players.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\refint\Players.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\Players.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\OOP - Encapsulation and Inheritance\13-Resources-OOP-Principles-Encapsulation-Inheritance\Players\obj\Debug\net6.0\ref\Players.dll

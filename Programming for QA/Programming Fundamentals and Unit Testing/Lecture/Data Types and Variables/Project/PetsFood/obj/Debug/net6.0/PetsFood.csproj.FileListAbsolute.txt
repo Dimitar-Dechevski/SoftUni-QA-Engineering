@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Data Types and Variables\Project\PetsFood\bin\Debug\net6.0\PetsFood.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Data Types and Variables\Project\PetsFood\bin\Debug\net6.0\PetsFood.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Data Types and Variables\Project\PetsFood\bin\Debug\net6.0\PetsFood.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Data Types and Variables\Project\PetsFood\bin\Debug\net6.0\PetsFood.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Data Types and Variables\Project\PetsFood\bin\Debug\net6.0\PetsFood.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Data Types and Variables\Project\PetsFood\obj\Debug\net6.0\PetsFood.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Data Types and Variables\Project\PetsFood\obj\Debug\net6.0\PetsFood.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Data Types and Variables\Project\PetsFood\obj\Debug\net6.0\PetsFood.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Data Types and Variables\Project\PetsFood\obj\Debug\net6.0\PetsFood.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Data Types and Variables\Project\PetsFood\obj\Debug\net6.0\PetsFood.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Data Types and Variables\Project\PetsFood\obj\Debug\net6.0\refint\PetsFood.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Data Types and Variables\Project\PetsFood\obj\Debug\net6.0\PetsFood.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Data Types and Variables\Project\PetsFood\obj\Debug\net6.0\PetsFood.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Lecture\Data Types and Variables\Project\PetsFood\obj\Debug\net6.0\ref\PetsFood.dll

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReading", "TextReading\TextReading.csproj", "{8EC2F11E-DB2B-4259-9BE9-3BFF0B1AA2CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareArea", "SquareArea\SquareArea.csproj", "{A1BB0079-E86D-4E2E-B9C4-CC81C094808F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleArea\RectangleArea.csproj", "{5AC623CF-B852-4842-A391-0F9601A5B264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrapezoidArea", "TrapezoidArea\TrapezoidArea.csproj", "{02770A2E-832D-45B9-AF3C-731016CF9226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianglePerimeter", "TrianglePerimeter\TrianglePerimeter.csproj", "{86EC8765-524A-4E8C-B9A8-2F6CD62CFE0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchesToCentimetersConverter", "InchesToCentimetersConverter\InchesToCentimetersConverter.csproj", "{E8721935-EDC1-4B8A-B3CE-A6A5BC04C2BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EC2F11E-DB2B-4259-9BE9-3BFF0B1AA2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC2F11E-DB2B-4259-9BE9-3BFF0B1AA2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC2F11E-DB2B-4259-9BE9-3BFF0B1AA2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC2F11E-DB2B-4259-9BE9-3BFF0B1AA2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BB0079-E86D-4E2E-B9C4-CC81C094808F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BB0079-E86D-4E2E-B9C4-CC81C094808F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BB0079-E86D-4E2E-B9C4-CC81C094808F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BB0079-E86D-4E2E-B9C4-CC81C094808F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC623CF-B852-4842-A391-0F9601A5B264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC623CF-B852-4842-A391-0F9601A5B264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC623CF-B852-4842-A391-0F9601A5B264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC623CF-B852-4842-A391-0F9601A5B264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02770A2E-832D-45B9-AF3C-731016CF9226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02770A2E-832D-45B9-AF3C-731016CF9226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02770A2E-832D-45B9-AF3C-731016CF9226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02770A2E-832D-45B9-AF3C-731016CF9226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86EC8765-524A-4E8C-B9A8-2F6CD62CFE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EC8765-524A-4E8C-B9A8-2F6CD62CFE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EC8765-524A-4E8C-B9A8-2F6CD62CFE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EC8765-524A-4E8C-B9A8-2F6CD62CFE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8721935-EDC1-4B8A-B3CE-A6A5BC04C2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8721935-EDC1-4B8A-B3CE-A6A5BC04C2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8721935-EDC1-4B8A-B3CE-A6A5BC04C2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8721935-EDC1-4B8A-B3CE-A6A5BC04C2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A933DC7-DC1F-45A9-ACBB-D937081262AD}
+	EndGlobalSection
+EndGlobal

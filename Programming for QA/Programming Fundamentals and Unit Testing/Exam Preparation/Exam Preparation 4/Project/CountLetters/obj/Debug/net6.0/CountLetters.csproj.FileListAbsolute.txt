@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\CountLetters\bin\Debug\net6.0\CountLetters.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\CountLetters\bin\Debug\net6.0\CountLetters.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\CountLetters\bin\Debug\net6.0\CountLetters.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\CountLetters\bin\Debug\net6.0\CountLetters.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\CountLetters\bin\Debug\net6.0\CountLetters.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\CountLetters\obj\Debug\net6.0\CountLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\CountLetters\obj\Debug\net6.0\CountLetters.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\CountLetters\obj\Debug\net6.0\CountLetters.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\CountLetters\obj\Debug\net6.0\CountLetters.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\CountLetters\obj\Debug\net6.0\CountLetters.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\CountLetters\obj\Debug\net6.0\refint\CountLetters.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\CountLetters\obj\Debug\net6.0\CountLetters.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\CountLetters\obj\Debug\net6.0\CountLetters.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 4 - 2 March 2024\Project\CountLetters\obj\Debug\net6.0\ref\CountLetters.dll

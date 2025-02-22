@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\ReverseStrings\bin\Debug\net6.0\ReverseStrings.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\ReverseStrings\bin\Debug\net6.0\ReverseStrings.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\ReverseStrings\bin\Debug\net6.0\ReverseStrings.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\ReverseStrings\bin\Debug\net6.0\ReverseStrings.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\ReverseStrings\bin\Debug\net6.0\ReverseStrings.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\ReverseStrings\obj\Debug\net6.0\ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\ReverseStrings\obj\Debug\net6.0\ReverseStrings.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\ReverseStrings\obj\Debug\net6.0\ReverseStrings.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\ReverseStrings\obj\Debug\net6.0\ReverseStrings.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\ReverseStrings\obj\Debug\net6.0\ReverseStrings.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\ReverseStrings\obj\Debug\net6.0\refint\ReverseStrings.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\ReverseStrings\obj\Debug\net6.0\ReverseStrings.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\ReverseStrings\obj\Debug\net6.0\ReverseStrings.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\ReverseStrings\obj\Debug\net6.0\ref\ReverseStrings.dll

@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\MultiplicationSign\bin\Debug\net6.0\MultiplicationSign.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\MultiplicationSign\bin\Debug\net6.0\MultiplicationSign.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\MultiplicationSign\bin\Debug\net6.0\MultiplicationSign.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\MultiplicationSign\bin\Debug\net6.0\MultiplicationSign.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\MultiplicationSign\bin\Debug\net6.0\MultiplicationSign.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\MultiplicationSign\obj\Debug\net6.0\MultiplicationSign.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\MultiplicationSign\obj\Debug\net6.0\MultiplicationSign.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\MultiplicationSign\obj\Debug\net6.0\MultiplicationSign.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\MultiplicationSign\obj\Debug\net6.0\MultiplicationSign.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\MultiplicationSign\obj\Debug\net6.0\MultiplicationSign.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\MultiplicationSign\obj\Debug\net6.0\refint\MultiplicationSign.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\MultiplicationSign\obj\Debug\net6.0\MultiplicationSign.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\MultiplicationSign\obj\Debug\net6.0\MultiplicationSign.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Nested Loops and Methods\Project\MultiplicationSign\obj\Debug\net6.0\ref\MultiplicationSign.dll

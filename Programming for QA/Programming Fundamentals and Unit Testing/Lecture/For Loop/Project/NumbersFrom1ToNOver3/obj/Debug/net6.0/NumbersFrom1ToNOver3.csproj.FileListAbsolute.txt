@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersFrom1ToNOver3\bin\Debug\net6.0\NumbersFrom1ToNOver3.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersFrom1ToNOver3\bin\Debug\net6.0\NumbersFrom1ToNOver3.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersFrom1ToNOver3\bin\Debug\net6.0\NumbersFrom1ToNOver3.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersFrom1ToNOver3\bin\Debug\net6.0\NumbersFrom1ToNOver3.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersFrom1ToNOver3\bin\Debug\net6.0\NumbersFrom1ToNOver3.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersFrom1ToNOver3\obj\Debug\net6.0\NumbersFrom1ToNOver3.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersFrom1ToNOver3\obj\Debug\net6.0\NumbersFrom1ToNOver3.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersFrom1ToNOver3\obj\Debug\net6.0\NumbersFrom1ToNOver3.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersFrom1ToNOver3\obj\Debug\net6.0\NumbersFrom1ToNOver3.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersFrom1ToNOver3\obj\Debug\net6.0\NumbersFrom1ToNOver3.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersFrom1ToNOver3\obj\Debug\net6.0\refint\NumbersFrom1ToNOver3.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersFrom1ToNOver3\obj\Debug\net6.0\NumbersFrom1ToNOver3.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersFrom1ToNOver3\obj\Debug\net6.0\NumbersFrom1ToNOver3.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\NumbersFrom1ToNOver3\obj\Debug\net6.0\ref\NumbersFrom1ToNOver3.dll

@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CardsGame\bin\Debug\net6.0\CardsGame.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CardsGame\bin\Debug\net6.0\CardsGame.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CardsGame\bin\Debug\net6.0\CardsGame.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CardsGame\bin\Debug\net6.0\CardsGame.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CardsGame\bin\Debug\net6.0\CardsGame.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CardsGame\obj\Debug\net6.0\CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CardsGame\obj\Debug\net6.0\CardsGame.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CardsGame\obj\Debug\net6.0\CardsGame.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CardsGame\obj\Debug\net6.0\CardsGame.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CardsGame\obj\Debug\net6.0\CardsGame.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CardsGame\obj\Debug\net6.0\refint\CardsGame.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CardsGame\obj\Debug\net6.0\CardsGame.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CardsGame\obj\Debug\net6.0\CardsGame.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Arrays and Lists\Project\CardsGame\obj\Debug\net6.0\ref\CardsGame.dll

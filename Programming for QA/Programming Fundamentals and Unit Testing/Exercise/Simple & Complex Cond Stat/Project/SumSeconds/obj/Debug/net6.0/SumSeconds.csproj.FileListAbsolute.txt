@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\SumSeconds\bin\Debug\net6.0\SumSeconds.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\SumSeconds\bin\Debug\net6.0\SumSeconds.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\SumSeconds\bin\Debug\net6.0\SumSeconds.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\SumSeconds\bin\Debug\net6.0\SumSeconds.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\SumSeconds\bin\Debug\net6.0\SumSeconds.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\SumSeconds\obj\Debug\net6.0\SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\SumSeconds\obj\Debug\net6.0\SumSeconds.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\SumSeconds\obj\Debug\net6.0\SumSeconds.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\SumSeconds\obj\Debug\net6.0\SumSeconds.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\SumSeconds\obj\Debug\net6.0\SumSeconds.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\SumSeconds\obj\Debug\net6.0\refint\SumSeconds.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\SumSeconds\obj\Debug\net6.0\SumSeconds.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\SumSeconds\obj\Debug\net6.0\SumSeconds.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Simple and Complex Conditional Statements\Project\SumSeconds\obj\Debug\net6.0\ref\SumSeconds.dll

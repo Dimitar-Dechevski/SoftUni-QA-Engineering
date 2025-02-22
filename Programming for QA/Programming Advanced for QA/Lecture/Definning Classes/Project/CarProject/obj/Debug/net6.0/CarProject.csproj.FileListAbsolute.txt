@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Definning Classes\Project\CarProject\bin\Debug\net6.0\CarProject.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Definning Classes\Project\CarProject\bin\Debug\net6.0\CarProject.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Definning Classes\Project\CarProject\bin\Debug\net6.0\CarProject.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Definning Classes\Project\CarProject\bin\Debug\net6.0\CarProject.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Definning Classes\Project\CarProject\bin\Debug\net6.0\CarProject.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Definning Classes\Project\CarProject\obj\Debug\net6.0\CarProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Definning Classes\Project\CarProject\obj\Debug\net6.0\CarProject.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Definning Classes\Project\CarProject\obj\Debug\net6.0\CarProject.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Definning Classes\Project\CarProject\obj\Debug\net6.0\CarProject.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Definning Classes\Project\CarProject\obj\Debug\net6.0\CarProject.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Definning Classes\Project\CarProject\obj\Debug\net6.0\refint\CarProject.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Definning Classes\Project\CarProject\obj\Debug\net6.0\CarProject.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Definning Classes\Project\CarProject\obj\Debug\net6.0\CarProject.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Definning Classes\Project\CarProject\obj\Debug\net6.0\ref\CarProject.dll

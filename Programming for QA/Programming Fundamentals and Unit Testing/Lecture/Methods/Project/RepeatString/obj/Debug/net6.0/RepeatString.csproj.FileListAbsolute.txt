@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\RepeatString\bin\Debug\net6.0\RepeatString.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\RepeatString\bin\Debug\net6.0\RepeatString.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\RepeatString\bin\Debug\net6.0\RepeatString.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\RepeatString\bin\Debug\net6.0\RepeatString.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\RepeatString\bin\Debug\net6.0\RepeatString.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\RepeatString\obj\Debug\net6.0\RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\RepeatString\obj\Debug\net6.0\RepeatString.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\RepeatString\obj\Debug\net6.0\RepeatString.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\RepeatString\obj\Debug\net6.0\RepeatString.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\RepeatString\obj\Debug\net6.0\RepeatString.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\RepeatString\obj\Debug\net6.0\refint\RepeatString.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\RepeatString\obj\Debug\net6.0\RepeatString.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\RepeatString\obj\Debug\net6.0\RepeatString.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Methods\Project\RepeatString\obj\Debug\net6.0\ref\RepeatString.dll

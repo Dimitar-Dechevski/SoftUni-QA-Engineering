@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\ExamCountdown\bin\Debug\net6.0\ExamCountdown.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\ExamCountdown\bin\Debug\net6.0\ExamCountdown.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\ExamCountdown\bin\Debug\net6.0\ExamCountdown.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\ExamCountdown\bin\Debug\net6.0\ExamCountdown.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\ExamCountdown\bin\Debug\net6.0\ExamCountdown.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\ExamCountdown\obj\Debug\net6.0\ExamCountdown.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\ExamCountdown\obj\Debug\net6.0\ExamCountdown.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\ExamCountdown\obj\Debug\net6.0\ExamCountdown.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\ExamCountdown\obj\Debug\net6.0\ExamCountdown.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\ExamCountdown\obj\Debug\net6.0\ExamCountdown.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\ExamCountdown\obj\Debug\net6.0\refint\ExamCountdown.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\ExamCountdown\obj\Debug\net6.0\ExamCountdown.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\ExamCountdown\obj\Debug\net6.0\ExamCountdown.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\For Loop\Project\ExamCountdown\obj\Debug\net6.0\ref\ExamCountdown.dll

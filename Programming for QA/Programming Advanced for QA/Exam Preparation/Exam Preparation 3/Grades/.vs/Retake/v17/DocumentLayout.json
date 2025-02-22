@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Exam Preparation\\Exam Preparation 3\\02-Grades-Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FEA7A-AA4D-45B1-B39D-713555B5E760}|TestApp.Tests\\TestApp.Tests.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\exam preparation\\exam preparation 3\\02-grades-resources\\testapp.tests\\gradestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FEA7A-AA4D-45B1-B39D-713555B5E760}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\gradestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA24381-6C0E-4B7C-9E26-8CBE91CB9E3C}|TestApp\\TestApp.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\exam preparation\\exam preparation 3\\02-grades-resources\\testapp\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA24381-6C0E-4B7C-9E26-8CBE91CB9E3C}|TestApp\\TestApp.csproj|solutionrelative:testapp\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradesTests.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Exam Preparation\\Exam Preparation 3\\02-Grades-Resources\\TestApp.Tests\\GradesTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\GradesTests.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Exam Preparation\\Exam Preparation 3\\02-Grades-Resources\\TestApp.Tests\\GradesTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\GradesTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:20:28.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grades.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Exam Preparation\\Exam Preparation 3\\02-Grades-Resources\\TestApp\\Grades.cs",
+              "RelativeDocumentMoniker": "TestApp\\Grades.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Exam Preparation\\Exam Preparation 3\\02-Grades-Resources\\TestApp\\Grades.cs",
+              "RelativeToolTip": "TestApp\\Grades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:19:21.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

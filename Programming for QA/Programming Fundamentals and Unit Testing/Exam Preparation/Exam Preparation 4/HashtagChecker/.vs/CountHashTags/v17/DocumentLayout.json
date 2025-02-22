@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam Preparation\\Exam Preparation 4 - 2 March 2024\\03. Hashtag_Checker_Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1E1BBD-F15D-4295-83E8-6D01AC0E896D}|TestApp.Tests\\TestApp.Tests.csproj|d:\\qa\\programming for qa\\programming fundamentals and unit testing\\exam preparation\\exam preparation 4 - 2 march 2024\\03. hashtag_checker_resources\\testapp.tests\\hashtagcheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1E1BBD-F15D-4295-83E8-6D01AC0E896D}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\hashtagcheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618102C2-64D9-4959-BCF0-8B3681F8BF68}|TestApp\\TestApp.csproj|d:\\qa\\programming for qa\\programming fundamentals and unit testing\\exam preparation\\exam preparation 4 - 2 march 2024\\03. hashtag_checker_resources\\testapp\\hashtagchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618102C2-64D9-4959-BCF0-8B3681F8BF68}|TestApp\\TestApp.csproj|solutionrelative:testapp\\hashtagchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HashTagChecker.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam Preparation\\Exam Preparation 4 - 2 March 2024\\03. Hashtag_Checker_Resources\\TestApp\\HashTagChecker.cs",
+              "RelativeDocumentMoniker": "TestApp\\HashTagChecker.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam Preparation\\Exam Preparation 4 - 2 March 2024\\03. Hashtag_Checker_Resources\\TestApp\\HashTagChecker.cs",
+              "RelativeToolTip": "TestApp\\HashTagChecker.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T11:08:52.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HashTagCheckerTests.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam Preparation\\Exam Preparation 4 - 2 March 2024\\03. Hashtag_Checker_Resources\\TestApp.Tests\\HashTagCheckerTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\HashTagCheckerTests.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam Preparation\\Exam Preparation 4 - 2 March 2024\\03. Hashtag_Checker_Resources\\TestApp.Tests\\HashTagCheckerTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\HashTagCheckerTests.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwEIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T11:08:49.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

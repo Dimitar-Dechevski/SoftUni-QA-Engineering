@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\TravelSavings\bin\Debug\net6.0\TravelSavings.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\TravelSavings\bin\Debug\net6.0\TravelSavings.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\TravelSavings\bin\Debug\net6.0\TravelSavings.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\TravelSavings\bin\Debug\net6.0\TravelSavings.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\TravelSavings\bin\Debug\net6.0\TravelSavings.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\TravelSavings\obj\Debug\net6.0\TravelSavings.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\TravelSavings\obj\Debug\net6.0\TravelSavings.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\TravelSavings\obj\Debug\net6.0\TravelSavings.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\TravelSavings\obj\Debug\net6.0\TravelSavings.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\TravelSavings\obj\Debug\net6.0\TravelSavings.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\TravelSavings\obj\Debug\net6.0\refint\TravelSavings.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\TravelSavings\obj\Debug\net6.0\TravelSavings.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\TravelSavings\obj\Debug\net6.0\TravelSavings.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\Nested Loops\Project\TravelSavings\obj\Debug\net6.0\ref\TravelSavings.dll

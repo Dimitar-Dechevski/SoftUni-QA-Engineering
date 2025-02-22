@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\OddNumber\bin\Debug\net6.0\OddNumber.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\OddNumber\bin\Debug\net6.0\OddNumber.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\OddNumber\bin\Debug\net6.0\OddNumber.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\OddNumber\bin\Debug\net6.0\OddNumber.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\OddNumber\bin\Debug\net6.0\OddNumber.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\OddNumber\obj\Debug\net6.0\OddNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\OddNumber\obj\Debug\net6.0\OddNumber.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\OddNumber\obj\Debug\net6.0\OddNumber.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\OddNumber\obj\Debug\net6.0\OddNumber.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\OddNumber\obj\Debug\net6.0\OddNumber.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\OddNumber\obj\Debug\net6.0\refint\OddNumber.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\OddNumber\obj\Debug\net6.0\OddNumber.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\OddNumber\obj\Debug\net6.0\OddNumber.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Lecture\While Loop\Project\OddNumber\obj\Debug\net6.0\ref\OddNumber.dll

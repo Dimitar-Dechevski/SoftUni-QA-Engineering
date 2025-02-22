@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Exercise\Project\Aquarium\bin\Debug\net6.0\Aquarium.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Exercise\Project\Aquarium\bin\Debug\net6.0\Aquarium.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Exercise\Project\Aquarium\bin\Debug\net6.0\Aquarium.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Exercise\Project\Aquarium\bin\Debug\net6.0\Aquarium.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Exercise\Project\Aquarium\bin\Debug\net6.0\Aquarium.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Exercise\Project\Aquarium\obj\Debug\net6.0\Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Exercise\Project\Aquarium\obj\Debug\net6.0\Aquarium.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Exercise\Project\Aquarium\obj\Debug\net6.0\Aquarium.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Exercise\Project\Aquarium\obj\Debug\net6.0\Aquarium.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Exercise\Project\Aquarium\obj\Debug\net6.0\Aquarium.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Exercise\Project\Aquarium\obj\Debug\net6.0\refint\Aquarium.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Exercise\Project\Aquarium\obj\Debug\net6.0\Aquarium.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Exercise\Project\Aquarium\obj\Debug\net6.0\Aquarium.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\Exercise\Project\Aquarium\obj\Debug\net6.0\ref\Aquarium.dll

@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\AMinerTask\bin\Debug\net6.0\AMinerTask.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\AMinerTask\bin\Debug\net6.0\AMinerTask.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\AMinerTask\bin\Debug\net6.0\AMinerTask.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\AMinerTask\bin\Debug\net6.0\AMinerTask.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\AMinerTask\bin\Debug\net6.0\AMinerTask.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\AMinerTask\obj\Debug\net6.0\AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\AMinerTask\obj\Debug\net6.0\AMinerTask.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\AMinerTask\obj\Debug\net6.0\AMinerTask.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\AMinerTask\obj\Debug\net6.0\AMinerTask.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\AMinerTask\obj\Debug\net6.0\AMinerTask.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\AMinerTask\obj\Debug\net6.0\refint\AMinerTask.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\AMinerTask\obj\Debug\net6.0\AMinerTask.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\AMinerTask\obj\Debug\net6.0\AMinerTask.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\AMinerTask\obj\Debug\net6.0\ref\AMinerTask.dll

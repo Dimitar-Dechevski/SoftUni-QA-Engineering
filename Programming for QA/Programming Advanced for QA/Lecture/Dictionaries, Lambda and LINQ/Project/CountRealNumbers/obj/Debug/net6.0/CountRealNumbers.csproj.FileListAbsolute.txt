@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\CountRealNumbers\bin\Debug\net6.0\CountRealNumbers.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\CountRealNumbers\bin\Debug\net6.0\CountRealNumbers.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\CountRealNumbers\bin\Debug\net6.0\CountRealNumbers.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\CountRealNumbers\bin\Debug\net6.0\CountRealNumbers.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\CountRealNumbers\bin\Debug\net6.0\CountRealNumbers.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\CountRealNumbers\obj\Debug\net6.0\CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\CountRealNumbers\obj\Debug\net6.0\CountRealNumbers.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\CountRealNumbers\obj\Debug\net6.0\CountRealNumbers.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\CountRealNumbers\obj\Debug\net6.0\CountRealNumbers.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\CountRealNumbers\obj\Debug\net6.0\CountRealNumbers.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\CountRealNumbers\obj\Debug\net6.0\refint\CountRealNumbers.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\CountRealNumbers\obj\Debug\net6.0\CountRealNumbers.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\CountRealNumbers\obj\Debug\net6.0\CountRealNumbers.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Dictionaries, Lambda and LINQ\Project\CountRealNumbers\obj\Debug\net6.0\ref\CountRealNumbers.dll

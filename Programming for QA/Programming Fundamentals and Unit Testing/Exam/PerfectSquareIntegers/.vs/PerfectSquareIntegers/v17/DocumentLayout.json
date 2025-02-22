@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam\\PerfectSquareIntegers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69E0F445-92CC-4DA5-A8C1-250225BDEA58}|TestApp.Tests\\TestApp.Tests.csproj|d:\\qa\\programming for qa\\programming fundamentals and unit testing\\exam\\perfectsquareintegers\\testapp.tests\\perfectsquareintegerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E0F445-92CC-4DA5-A8C1-250225BDEA58}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\perfectsquareintegerstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CB2127-47DD-4D0D-AD2E-328385635580}|TestApp\\TestApp.csproj|d:\\qa\\programming for qa\\programming fundamentals and unit testing\\exam\\perfectsquareintegers\\testapp\\perfectsquareintegers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CB2127-47DD-4D0D-AD2E-328385635580}|TestApp\\TestApp.csproj|solutionrelative:testapp\\perfectsquareintegers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerfectSquareIntegers.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam\\PerfectSquareIntegers\\TestApp\\PerfectSquareIntegers.cs",
+              "RelativeDocumentMoniker": "TestApp\\PerfectSquareIntegers.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam\\PerfectSquareIntegers\\TestApp\\PerfectSquareIntegers.cs",
+              "RelativeToolTip": "TestApp\\PerfectSquareIntegers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:17:30.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PerfectSquareIntegersTests.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam\\PerfectSquareIntegers\\TestApp.Tests\\PerfectSquareIntegersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\PerfectSquareIntegersTests.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam\\PerfectSquareIntegers\\TestApp.Tests\\PerfectSquareIntegersTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\PerfectSquareIntegersTests.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:17:27.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

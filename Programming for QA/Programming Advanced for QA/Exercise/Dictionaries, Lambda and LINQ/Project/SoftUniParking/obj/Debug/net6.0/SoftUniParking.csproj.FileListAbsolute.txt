@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\SoftUniParking\bin\Debug\net6.0\SoftUniParking.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\SoftUniParking\bin\Debug\net6.0\SoftUniParking.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\SoftUniParking\bin\Debug\net6.0\SoftUniParking.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\SoftUniParking\bin\Debug\net6.0\SoftUniParking.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\SoftUniParking\bin\Debug\net6.0\SoftUniParking.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\SoftUniParking\obj\Debug\net6.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\SoftUniParking\obj\Debug\net6.0\SoftUniParking.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\SoftUniParking\obj\Debug\net6.0\SoftUniParking.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\SoftUniParking\obj\Debug\net6.0\refint\SoftUniParking.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\SoftUniParking\obj\Debug\net6.0\SoftUniParking.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\SoftUniParking\obj\Debug\net6.0\SoftUniParking.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\SoftUniParking\obj\Debug\net6.0\ref\SoftUniParking.dll

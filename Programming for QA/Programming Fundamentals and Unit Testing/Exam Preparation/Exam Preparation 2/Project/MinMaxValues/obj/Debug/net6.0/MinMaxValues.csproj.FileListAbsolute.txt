@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 2\Project\MinMaxValues\bin\Debug\net6.0\MinMaxValues.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 2\Project\MinMaxValues\bin\Debug\net6.0\MinMaxValues.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 2\Project\MinMaxValues\bin\Debug\net6.0\MinMaxValues.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 2\Project\MinMaxValues\bin\Debug\net6.0\MinMaxValues.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 2\Project\MinMaxValues\bin\Debug\net6.0\MinMaxValues.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 2\Project\MinMaxValues\obj\Debug\net6.0\MinMaxValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 2\Project\MinMaxValues\obj\Debug\net6.0\MinMaxValues.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 2\Project\MinMaxValues\obj\Debug\net6.0\MinMaxValues.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 2\Project\MinMaxValues\obj\Debug\net6.0\MinMaxValues.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 2\Project\MinMaxValues\obj\Debug\net6.0\MinMaxValues.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 2\Project\MinMaxValues\obj\Debug\net6.0\refint\MinMaxValues.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 2\Project\MinMaxValues\obj\Debug\net6.0\MinMaxValues.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 2\Project\MinMaxValues\obj\Debug\net6.0\MinMaxValues.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 2\Project\MinMaxValues\obj\Debug\net6.0\ref\MinMaxValues.dll

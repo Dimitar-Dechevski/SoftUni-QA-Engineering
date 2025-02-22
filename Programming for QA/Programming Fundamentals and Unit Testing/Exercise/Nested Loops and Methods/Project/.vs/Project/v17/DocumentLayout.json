@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exercise\\Nested Loops and Methods\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F57F34A1-6B58-4426-8CC5-8218BD3A49FB}|MultiplicationSign\\MultiplicationSign.csproj|d:\\qa\\programming for qa\\programming fundamentals and unit testing\\exercise\\nested loops and methods\\project\\multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57F34A1-6B58-4426-8CC5-8218BD3A49FB}|MultiplicationSign\\MultiplicationSign.csproj|solutionrelative:multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exercise\\Nested Loops and Methods\\Project\\MultiplicationSign\\Program.cs",
+              "RelativeDocumentMoniker": "MultiplicationSign\\Program.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exercise\\Nested Loops and Methods\\Project\\MultiplicationSign\\Program.cs",
+              "RelativeToolTip": "MultiplicationSign\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T20:56:11.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

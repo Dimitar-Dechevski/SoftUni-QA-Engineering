@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Exam Preparation\\Exam Preparation 7 - 13 April 2024\\DictionaryProblems-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC77954-F560-4AED-8660-0A1FAB763119}|TestApp.Tests\\TestApp.Tests.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\exam preparation\\exam preparation 7 - 13 april 2024\\dictionaryproblems-skeleton\\testapp.tests\\sentenceanalyzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC77954-F560-4AED-8660-0A1FAB763119}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\sentenceanalyzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFE5189-4E54-48EA-AFBB-960D6F45BFDF}|TestApp\\TestApp.csproj|d:\\qa\\programming for qa\\programming advanced for qa\\exam preparation\\exam preparation 7 - 13 april 2024\\dictionaryproblems-skeleton\\testapp\\sentenceanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFE5189-4E54-48EA-AFBB-960D6F45BFDF}|TestApp\\TestApp.csproj|solutionrelative:testapp\\sentenceanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SentenceAnalyzer.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Exam Preparation\\Exam Preparation 7 - 13 April 2024\\DictionaryProblems-Skeleton\\TestApp\\SentenceAnalyzer.cs",
+              "RelativeDocumentMoniker": "TestApp\\SentenceAnalyzer.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Exam Preparation\\Exam Preparation 7 - 13 April 2024\\DictionaryProblems-Skeleton\\TestApp\\SentenceAnalyzer.cs",
+              "RelativeToolTip": "TestApp\\SentenceAnalyzer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:26:13.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SentenceAnalyzerTests.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Exam Preparation\\Exam Preparation 7 - 13 April 2024\\DictionaryProblems-Skeleton\\TestApp.Tests\\SentenceAnalyzerTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\SentenceAnalyzerTests.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Advanced for QA\\Exam Preparation\\Exam Preparation 7 - 13 April 2024\\DictionaryProblems-Skeleton\\TestApp.Tests\\SentenceAnalyzerTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\SentenceAnalyzerTests.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAswEQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:26:09.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

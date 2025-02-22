@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\Substring\bin\Debug\net6.0\Substring.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\Substring\bin\Debug\net6.0\Substring.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\Substring\bin\Debug\net6.0\Substring.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\Substring\bin\Debug\net6.0\Substring.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\Substring\bin\Debug\net6.0\Substring.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\Substring\obj\Debug\net6.0\Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\Substring\obj\Debug\net6.0\Substring.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\Substring\obj\Debug\net6.0\Substring.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\Substring\obj\Debug\net6.0\Substring.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\Substring\obj\Debug\net6.0\Substring.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\Substring\obj\Debug\net6.0\refint\Substring.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\Substring\obj\Debug\net6.0\Substring.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\Substring\obj\Debug\net6.0\Substring.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Lecture\Strings and Text Processing\Project\Substring\obj\Debug\net6.0\ref\Substring.dll

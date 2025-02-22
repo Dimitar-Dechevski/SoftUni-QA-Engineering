@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\SquareOf7By7Stars\bin\Debug\net6.0\SquareOf7By7Stars.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\SquareOf7By7Stars\bin\Debug\net6.0\SquareOf7By7Stars.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\SquareOf7By7Stars\bin\Debug\net6.0\SquareOf7By7Stars.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\SquareOf7By7Stars\bin\Debug\net6.0\SquareOf7By7Stars.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\SquareOf7By7Stars\bin\Debug\net6.0\SquareOf7By7Stars.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\SquareOf7By7Stars\obj\Debug\net6.0\SquareOf7By7Stars.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\SquareOf7By7Stars\obj\Debug\net6.0\SquareOf7By7Stars.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\SquareOf7By7Stars\obj\Debug\net6.0\SquareOf7By7Stars.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\SquareOf7By7Stars\obj\Debug\net6.0\SquareOf7By7Stars.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\SquareOf7By7Stars\obj\Debug\net6.0\SquareOf7By7Stars.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\SquareOf7By7Stars\obj\Debug\net6.0\refint\SquareOf7By7Stars.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\SquareOf7By7Stars\obj\Debug\net6.0\SquareOf7By7Stars.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\SquareOf7By7Stars\obj\Debug\net6.0\SquareOf7By7Stars.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio\Lecture\Simple Commands\Project\SquareOf7By7Stars\obj\Debug\net6.0\ref\SquareOf7By7Stars.dll

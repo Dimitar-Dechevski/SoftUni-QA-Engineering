@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\PowerOfNumber\bin\Debug\net6.0\PowerOfNumber.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\PowerOfNumber\bin\Debug\net6.0\PowerOfNumber.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\PowerOfNumber\bin\Debug\net6.0\PowerOfNumber.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\PowerOfNumber\bin\Debug\net6.0\PowerOfNumber.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\PowerOfNumber\bin\Debug\net6.0\PowerOfNumber.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\PowerOfNumber\obj\Debug\net6.0\PowerOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\PowerOfNumber\obj\Debug\net6.0\PowerOfNumber.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\PowerOfNumber\obj\Debug\net6.0\PowerOfNumber.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\PowerOfNumber\obj\Debug\net6.0\PowerOfNumber.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\PowerOfNumber\obj\Debug\net6.0\PowerOfNumber.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\PowerOfNumber\obj\Debug\net6.0\refint\PowerOfNumber.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\PowerOfNumber\obj\Debug\net6.0\PowerOfNumber.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\PowerOfNumber\obj\Debug\net6.0\PowerOfNumber.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exercise\Loops\Project\PowerOfNumber\obj\Debug\net6.0\ref\PowerOfNumber.dll

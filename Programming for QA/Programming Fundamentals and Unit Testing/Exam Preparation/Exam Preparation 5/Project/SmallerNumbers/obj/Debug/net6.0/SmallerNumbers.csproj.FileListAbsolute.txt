@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\SmallerNumbers\bin\Debug\net6.0\SmallerNumbers.exe
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\SmallerNumbers\bin\Debug\net6.0\SmallerNumbers.deps.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\SmallerNumbers\bin\Debug\net6.0\SmallerNumbers.runtimeconfig.json
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\SmallerNumbers\bin\Debug\net6.0\SmallerNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\SmallerNumbers\bin\Debug\net6.0\SmallerNumbers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\SmallerNumbers\obj\Debug\net6.0\SmallerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\SmallerNumbers\obj\Debug\net6.0\SmallerNumbers.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\SmallerNumbers\obj\Debug\net6.0\SmallerNumbers.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\SmallerNumbers\obj\Debug\net6.0\SmallerNumbers.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\SmallerNumbers\obj\Debug\net6.0\SmallerNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\SmallerNumbers\obj\Debug\net6.0\refint\SmallerNumbers.dll
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\SmallerNumbers\obj\Debug\net6.0\SmallerNumbers.pdb
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\SmallerNumbers\obj\Debug\net6.0\SmallerNumbers.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Fundamentals and Unit Testing\Exam Preparation\Exam Preparation 5 - 16 April 2024\Project\SmallerNumbers\obj\Debug\net6.0\ref\SmallerNumbers.dll

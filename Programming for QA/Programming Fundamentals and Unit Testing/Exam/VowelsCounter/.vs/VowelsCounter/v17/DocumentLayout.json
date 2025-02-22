@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam\\VowelsCounter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C516C3D-A09F-43DA-BE1C-3FEFE5CE4FD8}|TestApp.Tests\\TestApp.Tests.csproj|d:\\qa\\programming for qa\\programming fundamentals and unit testing\\exam\\vowelscounter\\testapp.tests\\vowelscountertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C516C3D-A09F-43DA-BE1C-3FEFE5CE4FD8}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\vowelscountertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680C07DF-61C9-4149-AD3E-DAD8FC4C3994}|TestApp\\TestApp.csproj|d:\\qa\\programming for qa\\programming fundamentals and unit testing\\exam\\vowelscounter\\testapp\\vowelscounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680C07DF-61C9-4149-AD3E-DAD8FC4C3994}|TestApp\\TestApp.csproj|solutionrelative:testapp\\vowelscounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VowelsCounter.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam\\VowelsCounter\\TestApp\\VowelsCounter.cs",
+              "RelativeDocumentMoniker": "TestApp\\VowelsCounter.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam\\VowelsCounter\\TestApp\\VowelsCounter.cs",
+              "RelativeToolTip": "TestApp\\VowelsCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:31:05.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VowelsCounterTests.cs",
+              "DocumentMoniker": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam\\VowelsCounter\\TestApp.Tests\\VowelsCounterTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\VowelsCounterTests.cs",
+              "ToolTip": "D:\\QA\\Programming for QA\\Programming Fundamentals and Unit Testing\\Exam\\VowelsCounter\\TestApp.Tests\\VowelsCounterTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\VowelsCounterTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:31:09.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

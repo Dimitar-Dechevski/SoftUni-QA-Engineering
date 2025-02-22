@@ -1,0 +1,14 @@
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\CountCharsInAString\bin\Debug\net6.0\CountCharsInAString.exe
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\CountCharsInAString\bin\Debug\net6.0\CountCharsInAString.deps.json
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\CountCharsInAString\bin\Debug\net6.0\CountCharsInAString.runtimeconfig.json
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\CountCharsInAString\bin\Debug\net6.0\CountCharsInAString.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\CountCharsInAString\bin\Debug\net6.0\CountCharsInAString.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\CountCharsInAString\obj\Debug\net6.0\CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\CountCharsInAString\obj\Debug\net6.0\CountCharsInAString.AssemblyInfoInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\CountCharsInAString\obj\Debug\net6.0\CountCharsInAString.AssemblyInfo.cs
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\CountCharsInAString\obj\Debug\net6.0\CountCharsInAString.csproj.CoreCompileInputs.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\CountCharsInAString\obj\Debug\net6.0\CountCharsInAString.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\CountCharsInAString\obj\Debug\net6.0\refint\CountCharsInAString.dll
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\CountCharsInAString\obj\Debug\net6.0\CountCharsInAString.pdb
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\CountCharsInAString\obj\Debug\net6.0\CountCharsInAString.genruntimeconfig.cache
+D:\QA\Programming for QA\Programming Advanced for QA\Exercise\Dictionaries, Lambda and LINQ\Project\CountCharsInAString\obj\Debug\net6.0\ref\CountCharsInAString.dll
